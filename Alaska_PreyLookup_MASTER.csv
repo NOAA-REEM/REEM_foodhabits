@@ -1,0 +1,1555 @@
+NODC_CODE,BASE_NAME,LENFEST_NAME,WEBSITE_NAME,CRAB_TEAM,ECOPATH_PREY,EBS_CRAB
+0,Empty,NA,Empty,Empty,Empty,Empty
+1499999999,Misc. prey,NA,Misc Org,Other,Complete Misc,Oth.nonfish
+1500000000,Phaeophycophyta (brown algae),Brown_Algae,Misc Invert,Other,Algae,Oth.nonfish
+3448000000,Foraminiferida (protozoan),Foraminiferida,Misc Invert,Other,Protozoan,Oth.nonfish
+3450000000,Textulariina (foram),Textulariina,Misc Invert,Other,Protozoan,Oth.nonfish
+3600000000,Porifera (sponge),Sponges,Misc Invert,Other,Sponge,Epifauna
+3630000000,Hyalospongia (glass sponges),Sponges,Misc Invert,Other,Sponge,Epifauna
+3666090100,sponge Latrunculia sp.,Sponges,Misc Invert,Other,Sponge,Epifauna
+3700000000,Cnidaria,Misc_Cnidaria,Cnidaria,Other,Sponge,Epifauna
+3701000000,Hydrozoa,Misc_Cnidaria,Cnidaria,Other,Gen. Hydrozoa,Oth.nonfish
+3702000000,Hydroida (hydroid),Misc_Cnidaria,Cnidaria,Other,Benth. Hydroid,Epifauna
+3704050000,Sertulariidae (hydroid),Misc_Cnidaria,Cnidaria,Other,Benth. Hydroid,Epifauna
+3704050200,Sertularia sp. (hydroid),Misc_Cnidaria,Cnidaria,Other,Benth. Hydroid,Epifauna
+3715000000,Siphonophora,Misc_Cnidaria,Cnidaria,Other,Pel. Gel. Filter Feeder,Oth.nonfish
+3717010000,Agalmidae,Misc_Cnidaria,Cnidaria,Other,Pel. Gel. Filter Feeder,Oth.nonfish
+3730000000,Scyphozoa (jellyfish),Scyphozoa,Cnidaria,Other,Scypho Jellies,Oth.nonfish
+3733010100,Atolla sp.,Scyphozoa,Cnidaria,Other,Scypho Jellies,Oth.nonfish
+3733060101,Periphylla periphylla,Scyphozoa,Cnidaria,Other,Scypho Jellies,Oth.nonfish
+3734010201,Chrysaora melanaster (jellyfish),Scyphozoa,Cnidaria,Other,Scypho Jellies,Oth.nonfish
+3734030101,Phacellophora camtchatica,Scyphozoa,Cnidaria,Other,Scypho Jellies,Oth.nonfish
+3734030203,Aurelia labiata (moon jellyfish),Scyphozoa,Cnidaria,Other,Scypho Jellies,Oth.nonfish
+3740000000,Anthozoa (anemome),Anthozoa,Cnidaria,Other,Anemones,Epifauna
+3743010000,Cerianthidae (anemone),Anthozoa,Cnidaria,Other,Anemones,Epifauna
+3752000000,Pennatulacea (sea pen),Anthozoa,Cnidaria,Other,Sea Pens,Epifauna
+3760010900,Liponema sp. (sea anemone),Anthozoa,Cnidaria,Other,Anemones,Epifauna
+3760020000,Actinostolidae (anemone),Anthozoa,Cnidaria,Other,Anemones,Epifauna
+3760040400,Anemone Actinauge sp.,Anthozoa,Cnidaria,Other,Anemones,Epifauna
+3800000000,Ctenophora (comb jelly),Ctenophora,Ctenophora,Other,Pel. Gel. Filter Feeder,Oth.nonfish
+3807010100,Beroe sp. (ctenophore),Ctenophora,Ctenophora,Other,Pel. Gel. Filter Feeder,Oth.nonfish
+3900000000,Platyhelminthes,Platyhelminthes,Misc Invert,Other,Misc. Worm. Etc.,Infauna
+3935000000,Digenea (flatworm),Platyhelminthes,Misc Invert,Other,Misc. Worm. Etc.,Infauna
+3960000000,Cestoda (flatworm),Platyhelminthes,Misc Invert,Other,Misc. Worm. Etc.,Infauna
+4300000000,Rhynchocoela,Rhynchocoela,Misc Invert,Other,Misc. Worm. Etc.,Infauna
+4302010102,Orange Ribbon Worm Tubulanus polymorphus,Rhynchocoela,Misc Invert,Other,Misc. Worm. Etc.,Infauna
+4306010100,Ribbon Worm Emplectonema sp.,Rhynchocoela,Misc Invert,Other,Misc. Worm. Etc.,Infauna
+4700000000,Nematoda (worm),Nematoda,Misc Invert,Other,Misc. Worm. Etc.,Infauna
+4900000000,Acanthocephala (parasitic worm),Acanthocephala,Misc Invert,Other,Misc. Worm. Etc.,Infauna
+5000000000,Annelida (worm),General_Annalid,Misc Invert,Other,Misc. Worm. Etc.,Infauna
+5001000000,Polychaeta (worm),General_Polychaeta,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001010000,Aphroditidae (sea mouse),Aphroditidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001020000,Polynoidae (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001020201,Antinoella macrolepida (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001020203,Antinoella badia (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001020301,Arcteobia anticostiensis (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001020402,Arctonoe vittata (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001020500,Eunoe sp.,Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001020503,Eunoe nodosa (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001020601,Gattyana amondseni (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001020606,Gattyana treadwelli,Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001020800,Harmothoe sp. (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001021500,Polynoe sp. (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001021501,Polynoe canadensis (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001021502,Polynoe gracilis (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001021600,Polynoidae (polychaete) Polyeunoa sp.,Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001022301,Tenonia kisapensis (polychaete),Polynoidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001060000,Sigalionidae,Sigalionidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001060101,Pholoe minuta (polychaete),Sigalionidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001060400,polychaete Sigalion sp,Sigalionidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001110000,Euphrosinidae,Euphrosinidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001110105,Euphrosine multibranchiata,Euphrosinidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001130000,Phyllodocidae (polychaete),Phyllodocidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001130102,Phyllodocidae (polychaete) Phyllodoce groenlandica,Phyllodocidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001130200,Eteone sp. (polychaete),Phyllodocidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001130205,Eteone longa (polychaete),Phyllodocidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001130210,polychaete Eteone cf ornata,Phyllodocidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001130500,Mystides sp. (polychaete),Phyllodocidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001131000,Phyllodoce sp. (polychaete),Phyllodocidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001140000,Alciopidae (polychaete),Alciopidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001200000,Tomopteridae (polychaete),Tomopteridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001200100,Tomopteris,Tomopteridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001210000,polychaete Hesionidae,Hesionidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001230000,Syllidae (polychaete),Syllidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001240000,Nereidae (polychaete),Nereidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001250000,Nephtyidae (polychaete),Nephtyidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001250100,Nephtys sp. (polychaete),Nephtyidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001250103,Nephtys caeca (polychaete),Nephtyidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001250113,Nephtys californiensis (polychaete),Nephtyidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001260000,Sphaerodoridae (polychaete),Sphaerodoridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001260203,Sphaerodoropsis biserialis (polychaete),Sphaerodoridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001270000,Glyceridae (polychaete),Glyceridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001270100,Glycera sp. (polychaete),Glyceridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001270101,Glycera capitata (polychaete),Glyceridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001280000,Goniadidae (polychaete),Goniadidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001280103,Glycinde armigera (polychaete),Goniadidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001280200,Goniada sp. (polychaete),Goniadidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001290000,Onuphidae (polychaete),Onuphidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001290100,Onuphis sp. (polychaete),Onuphidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001290101,Onuphis conchylega (polychaete),Onuphidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001290103,Onuphis iridescens (polychaete),Onuphidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001290104,Onuphis holobranchiata (polychaete),Onuphidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001290105,Onuphis parva (polychaete),Onuphidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001300000,Eunicidae,Eunicidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001300102,Eunice valens (polychaete),Eunicidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001310000,Lumbrineridae,Lumbrineridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001310100,Lumbrineris sp. (polychaete),Lumbrineridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001310104,Lumbrineris latreilli (polychaete),Lumbrineridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001310107,Lumbrineris japonica (polychaete),Lumbrineridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001310127,Lumbrineris minuta (polychaete),Lumbrineridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001310146,Lumbrineris bifurcatus (polychaete),Lumbrineridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001310147,Lumbrineris cervicalis (polychaete),Lumbrineridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001330000,Arabellidae (polychaete),Arabellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001330100,Drilonereis sp. (polychaete),Arabellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001330103,Drilonereis longa (polychaete),Arabellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001330104,Drilonereis falcata minor (polychaete),Arabellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001400000,Orbiniidae (polychaete),Orbiniidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001400102,Haploscolopos elongatus (polychaete),Orbiniidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001400301,Scoloplos armiger (polychaete),Orbiniidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001410000,Paraonidae (polychaete),Paraonidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001410200,Aricidea sp. (polychaete),Paraonidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001410301,Tauberia gracilis (polychaete),Paraonidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001430000,Spionidae (polychaete),Spionidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001430500,Prionospio sp. (polychaete),Spionidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001430502,Prionospio cirrifera (polychaete),Spionidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001430506,Prionospio steenstrupi (polychaete),Spionidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001430510,Prionospio nova (polychaete),Spionidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001430804,Boccardia californica (polychaete),Spionidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001431002,Spiophanes kroyeri (polychaete),Spionidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001440000,Magelonidae (polychaete),Magelonidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001440100,Magelona sp. (polychaete),Magelonidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001490000,Chaetopteridae (polychaete),Chaetopteridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001490100,Chaetopterus sp. (polychaete),Chaetopteridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001490300,Spiochaetopterus sp. (polychaete),Chaetopteridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001490301,Spiochaetopterus typicus (polychaete),Chaetopteridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001500000,Cirratulidae (polychaete),Cirratulidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001500300,Tharyx sp. (polychaete),Cirratulidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001520101,Cossura longocirrata (polychaete),Cossuridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001540000,Flabelligeridae (polychaete),Flabelligeridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001540100,Brada sp. (polychaete),Flabelligeridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001540101,Brada granulata (polychaete),Flabelligeridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001540102,Brada villosa (polychaete),Flabelligeridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001540200,Flabelligera sp. (polychaete),Flabelligeridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001540202,Flabelligera affinis (polychaete),Flabelligeridae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001570000,Scalibregmidae,Scalibregmidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001570100,Scalibregma sp. (polychaete),Scalibregmidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001570101,Scalibregma inflatum,Scalibregmidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001580000,Opheliidae (polychaete),Opheliidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001580101,Ophelina acuminata (polychaete),Opheliidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001580300,Opheliidae (polychaete) Ophelia sp.,Opheliidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001580301,Ophelia limacina (polychaete),Opheliidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001580400,Travisia sp. (polychaete),Opheliidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001580401,Travesia brevis (polychaete),Opheliidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001580402,Travisia forbesii (polychaete),Opheliidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001580403,Travisia pupa (polychaete),Opheliidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001580600,Ophelina sp. (polychaete),Opheliidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001580700,Euzonus sp. (polychaete),Opheliidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001590000,Sternaspidae (polychaete),Sternaspidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001590101,Sternaspis scutata (polychaete),Sternaspidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001600000,Capitellidae (polychaete),Capitellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001600101,Capitella capitata (polychaete),Capitellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001600306,Notomastus latericeus (polychaete),Capitellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001620000,Arenicolidae (polychaete) ,Arenicolidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001620200,Polychaete Arenicola sp.,Arenicolidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630000,Maldanidae (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630301,Maldane sarsi (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630400,Maldanella sp. (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630402,Maldanella harai (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630500,Nicomache sp. (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630501,Nicomache lumbricalis (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630502,Nicomache personata (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630600,Notoproctus sp. (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630801,Axiothella catenata (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630900,Praxillella sp. (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630901,Praxillella gracilis (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001630902,Praxillella praetermissa (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001631000,Rhodine sp. (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001631600,Micromaldane sp. (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001631601,Micromaldane ornithochaeta (polychaete),Maldanidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001640000,Oweniidae (polychaete),Oweniidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001640100,Oweniidae (polychaete) Owenia sp.,Oweniidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001640102,Oweniidae (polychaete) Owenia fusiformis,Oweniidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001640200,Myriochele sp. (polychaete),Oweniidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001640202,Oweniidae (polychaete) Galathowenia oculata,Oweniidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001640400,Galathowenia sp.,Oweniidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001650000,Sabellariidae,Sabellariidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001650102,Idanthyrsus armatus (polychaete),Sabellariidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001660000,Pectinariidae (polychaete),Pectinariidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001660200,Cistenides sp. (polychaete),Pectinariidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001660203,Cistenides hyperborea (polychaete),Pectinariidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001660300,polychaete Pectinaria sp.,Pectinariidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001670000,Ampharetidae (polychaete),Ampharetidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001670100,Amage sp. (polychaete),Ampharetidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001670200,Ampharete sp. (polychaete),Ampharetidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001670206,Ampharete reducta (polychaete),Ampharetidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001670208,Ampharete acutifrons (polychaete),Ampharetidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001670300,Amphicteis sp. (polychaete),Ampharetidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001670500,Melinna (polychaete),Ampharetidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001670501,Melinna cristata (polychaete),Ampharetidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001670602,Sabellides borealis (polychaete),Ampharetidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001670901,Glyphanostomum pallescens (polychaete),Ampharetidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001680000,Terebellidae (polychaete),Terebellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001680101,Amphitrite cirrata (polychaete),Terebellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001680402,Neoamphitrite groenlandica (polychaete),Terebellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001680600,Nicolea sp. (polychaete),Terebellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001680700,Pista sp. (polychaete),Terebellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001680703,Pista elongata,Terebellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001680800,Polycirrus sp. (polychaete),Terebellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001681000,Terebellidae (polychaete) Thelepus sp,Terebellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001681100,Artacama sp. (polychaete),Terebellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001681102,Artacama proboscidea (polychaete),Terebellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001681600,Lysilla sp. (polychaete),Terebellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001690000,Trichobranchidae (polychaete),Trichobranchidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001690100,Terebellides sp. (polychaete),Trichobranchidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001690101,Terebellides stroemi (polychaete),Trichobranchidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001700000,Sabellidae (polychaete),Sabellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001700100,Chone sp. (polychaete),Sabellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001700103,Chone cincta (polychaete),Sabellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001700106,Chone magna (Sabellidae),Sabellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001700200,Euchone sp. (Sabellidae),Sabellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001700201,Euchone cf analis (Sabellidae),Sabellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001701401,Laonome kroyeri (Sabellidae),Sabellidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001730000,Serpulidae (polychaete),Serpulidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001730500,Spirorbis sp.,Serpulidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001910000,Aphroditiformia (polychate) ,Aphroditiformia,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001920000,Scolacida (polychaete) ,Scolacida,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001930000,Aphroditoidea (polychaete) ,Aphroditoidea,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001940000,Spionida (polychaete) ,Spionida,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001950000,Capitellida,Capitellida,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001960000,Eunicida (polychaete),Eunicida,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001970000,Phyllodocida (pllychaete),Phyllodocida,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001971000,Glyceriformia,Phyllodocida,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001980000,Sabellida (polychaete),Sabellida,Polychaeta,Polychaeta,Polychaete,Polychaete
+5001990000,Terebellida (polychaete),Terebellida,Polychaeta,Polychaeta,Polychaete,Polychaete
+5002050000,polychaete Polygordiidae,Polygordiidae,Polychaeta,Polychaeta,Polychaete,Polychaete
+5004000000,Oligochaeta (worm),Oligochaeta,Misc Invert,Other,Misc. Worm. Etc.,Infauna
+5012000000,Hirudinea (leech),Hirudinea,Misc Invert,Other,Misc. Worm. Etc.,Infauna
+5085000000,Mollusca,Misc_Mollusca,Misc Mollusca,Other,Gen. Mollusc,Epifauna
+5100000000,Gastropoda (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5102040000,Limpet Fissurellidae,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5102040203,Cranopsis major (Great key-hole limpet),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5102100000,Trochidae (snail) ,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5102100200,Bathybembix sp. (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5102100300,Margarites sp. (Gastropoda),Gastropod,NA,Gastropod,Snail,Epifauna
+5102100400,Solariella sp (Trochidae),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5102100403,Solariella varicosa (Trochidae),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103200500,Rissoina sp. (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103330000,Turritellidae (turret snail) ,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103330101,Turritellidae Tachyrychus erosus,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103430101,Horse mussel Modiolus modiolus,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103620204,Trichotropis cancellata (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103640202,Crepidula grandis (grand slipper shell),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103660000,Lamellariidae (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103660404,Velutina pliciatis (Ribbed velvet snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103730000,Heteropoda sp. (Mollusc),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103760000,Naticidae (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103760200,Natica sp. (moonsnail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103760400,snail Euspira sp,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103760401,Euspiradae (snail) Euspira nana,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103760402,Polinices pallidus (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103769900,Snail Euspira sp.,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5103780101,Fusitriton oregonensis (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105010000,Muricidae (Snail) ,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105040000,Buccinidae (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105040100,Buccinum sp. (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105050000,Neptuneidae (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105050200,Beringius sp. (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105050301,Colus spitzbergensis (thick ribbed colus),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105050321,Colus halli (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105050800,Neptunea sp. (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105050801,Neptunea lyrata,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105050805,Neptunea pribiloffensis (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105050810,Neptunea heros (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105050911,Plicifusus brunneus,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105100102,Beatic olive Olivella beatica,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5105140100,snail Admete sp.,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5106020000,Turridae (snail) Turridae,Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5106020400,Oenopota sp. (Turridae),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5108010200,Turbonilla sp. (snail),Gastropod,Gastropod,Gastropod,Snail,Epifauna
+5108999999,pelagic snails,Gastropod,Misc Mollusca,Gastropod,Snail,Epifauna
+5109000000,Pteropoda,Pteropoda,Pteropoda,Pteropoda,Pteropod,Oth.nonfish
+5110000000,Cephalaspidea (snail),Gastropod,Pteropoda,Pteropoda,Pteropod,Oth.nonfish
+5110040200,Cylichna sp. (snail),Gastropod,Pteropoda,Pteropoda,Pteropod,Oth.nonfish
+5110040203,Cylichna alba (gastropod),Gastropod,Pteropoda,Pteropoda,Pteropod,Oth.nonfish
+5110090101,Diaphanidae (snail) Diaphana minuta,Gastropod,Pteropoda,Pteropoda,Pteropod,Oth.nonfish
+5113000000,Thecosomata (pteropod),Pteropoda,Pteropoda,Pteropoda,Pteropod,Oth.nonfish
+5113010100,Limacina,Pteropoda,Pteropoda,Pteropoda,Pteropod,Oth.nonfish
+5113010102,Limacina helicina (pteropod),Pteropoda,Pteropoda,Pteropoda,Pteropod,Oth.nonfish
+5125000000,Gymnosomata (pteropod),Pteropoda,Pteropoda,Pteropoda,Pteropod,Oth.nonfish
+5125060100,Clione sp. (Pteropod),Pteropoda,Pteropoda,Pteropoda,Pteropod,Oth.nonfish
+5125060101,Clione limacina (pteropod),Pteropoda,Pteropoda,Pteropoda,Pteropod,Oth.nonfish
+5127000000,Nudibranchia (sea slug),Nudibranchia,Misc Mollusca,Other,Snail,Epifauna
+5134000000,Dendronotoidea (nudibranch),Nudibranchia,Misc Mollusca,Other,Snail,Epifauna
+5300000000,Polyplacophora,Polyplacophora,Misc Mollusca,Other,Snail,Epifauna
+5302010100,Leptochitonidae Leptochiton sp.,Polyplacophora,Misc Mollusca,Other,Snail,Epifauna
+5400000000,Aplacophora,Aplacophora,Misc Mollusca,Other,Snail,Epifauna
+5500000000,Bivalvia (clam),General_Bivalvia,Bivalvia,Bivalvia,Clam,Infauna
+5502000000,Nuculoida (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502020000,Nuculidae,Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502020200,Nucula sp. (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502020201,Nucula tenuis (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040000,Nuculanidae (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040200,Nuculana sp. (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040201,Nuculana pernula (Nuculanidae),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040203,Nuculana fossa (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040500,Yoldia sp. (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040501,Yoldia amygdalea (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040502,Yoldia hyperborea,Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040504,Yoldia scissurata (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040505,Yoldiidae (clam) Yoldia seminuda,Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040507,Yoldia thraciaeformis (Axe Yoldia ),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040510,Yoldia montereyensis (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5502040600,Yoldiella sp. (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5504010100,Solemya sp. (clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5506050102,Akutan limops Limopsis akutanica,Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5507010000,Mytilidae (mussel),Mussels,Bivalvia,Bivalvia,Clam,Infauna
+5507010402,Discord Mussel (mussel) Musculus discors,Mussels,Bivalvia,Bivalvia,Clam,Infauna
+5507010601,Modiolus modiolus (Horse mussel),Mussels,Bivalvia,Bivalvia,Clam,Infauna
+5509050000,Pectinidae (scallops),Scallops,Bivalvia,Bivalvia,Clam,Infauna
+5509050100,Chlamys sp. (scallop),Scallops,Bivalvia,Bivalvia,Clam,Infauna
+5509050200,Cyclopecten sp. (scallop),Scallops,Bivalvia,Bivalvia,Clam,Infauna
+5509050400,Pecten sp. (scallop),Scallops,Bivalvia,Bivalvia,Clam,Infauna
+5509090101,Pododesmus macrochisma (rock jingle),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5509100200,Limatula spp. (file clam),Nuculoida_clam,Bivalvia,Bivalvia,Clam,Infauna
+5515000000,Veneroida (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515010000,Lucinidae (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515010300,Lucina sp. (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515020000,Thyasiridae (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515020201,silky axinopsid Axinopsida serricata,Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515050000,Ungulinidae,Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515050100,Ungulinidae Diplodonta sp.,Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515050102,Ungulinidae Diplodonta aleutica,Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515100201,Odontogena borealis (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515170000,Carditidae ,Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515170100,Cyclocardia sp. (cardita clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515170102,Cyclocardia crebricostata (thickribbed cardita),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515170105,Cyclocardia crassidens,Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515190100,Astarte sp. (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515220000,Cardiidae (cockles),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515220100,Clinocardium sp. (cockle),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515220101,Clinocardium ciliatum (Iceland cockle),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515220102,Clinocardium nuttalli (cockle),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515220104,California cockle Clinocardium californiense,Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515220200,Cardiidae Serripes sp.,Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515220201,Serripes groenlandicus (Greenland cockle),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515220701,Trachycardium muricatum (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515250100,Spisula sp. (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515250101,Spisula polynyma (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515250200,Tresus sp. (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515290100,Siliqua sp.(razor clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515290102,Siliqua alta (northern razor clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515310000,Tellinidae (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515310100,Macoma sp. (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515310101,Macoma calcarea (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515310107,Macoma moesta  (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515310200,Tellina sp. (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515310201,Alaska great tellin Tellina lutea,Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5515470800,Tapes sp. (Manila clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5517010000,Myidae (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5517010200,Mya sp. (soft shell clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5520050201,clam Lyonsia arenosa,Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5520100100,Cardiomya sp. (clam),Veneroida,Bivalvia,Bivalvia,Clam,Infauna
+5600000000,Scaphopoda,Scaphopoda,Misc Mollusca,Other,Clam,Infauna
+5600010000,tusk shell Dentaliidae,Scaphopoda,Misc Mollusca,Other,Clam,Infauna
+5602040100,Cadulus sp. (scaphopod),Scaphopoda,Misc Mollusca,Other,Clam,Infauna
+5700000000,Cephalopoda (squid and octopus),General_Cephalopod,Misc Cephalopoda,Other,Gen. Cephalopod,Forage.fish
+5704020100,Rossia sp. (squid),Misc_squid,Misc Cephalopoda,Teuthida,Squid,Forage.fish
+5704020101,Rossia pacifica (eastern Pacific bobtail),Misc_squid,Misc Cephalopoda,Teuthida,Squid,Forage.fish
+5705000000,Teuthida (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5706000000,Myopsida (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5706010000,Loliginidae (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5706010100,Loligo sp. (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5706010101,Loligo opalescens (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707000000,Oegopsida (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707020103,Abraliopsis felis (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707030000,Gonatidae (squid),Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707030100,Gonatopsis sp. (squid),Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707030102,Gonatopsis borealis (squid),Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707030200,Gonatus sp. (squid),Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707030202,Gonatus magister (squid),Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707030203,Gonatus pryo (squid),Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707030205,Gonatus berryi (squid),Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707030206,Gonatus onyx (squid),Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707030207,Berryteuthis anonychus (formerly Gonatus),Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707030277,Madoka armhook squid Gonatus madokai,Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707030300,Berryteuthis sp. (squid),Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707030301,Berryteuthis magister (squid),Gonatidae,Teuthida,Teuthida,Squid,Forage.fish
+5707040100,Octopoteuthis sp. (octopopteuthid squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707040103,Octopoteuthis deletron (octopoteuthid squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707050000,Onychoteuthidae,Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707050101,Moroteuthis robusta (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707050200,Onychoteuthis sp. (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707050203,Onychoteuthis borealijaponica (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707110100,Histeoteuthis sp. (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707110107,Histioteuthis heteropsis (histiotheuthid squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707150402,Ommastrephes bartrami (neon flying Squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707150501,Dosidicus gigas (giant squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707170100,Chirotheuthis sp. (chiroteuthid squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707170103,Chirotheuthis calyx (chirotheuthid squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707230000,Squid Cranchiidae,Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707230201,Galiteuthis phyllura,Misc_squid,NA,Teuthida,Squid,Forage.fish
+5707230301,Taonius pavo (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707230401,Galiteuthis phyllura  (squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707230800,Galiteathis sp. (cranchiid squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707230901,Belonella borealis (cranchiid squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5707240101,Vampycoteuthis infernalis (vampire squid),Misc_squid,Teuthida,Teuthida,Squid,Forage.fish
+5708000000,Octopoda (octopus),Octopoda,Octopoda,Octopoda,Octopus,Octopus
+5708010000,Octopodidae (octopus),Octopoda,Octopoda,Octopoda,Octopus,Octopus
+5708010199,Benthoctopus leioderma,Octopoda,Octopoda,Octopoda,Octopus,Octopus
+5708010200,Octopus sp. (octopus),Octopoda,Octopoda,Octopoda,Octopus,Octopus
+5708010201,Octopus dofleini (giant Pacific octopus),Octopoda,Octopoda,Octopoda,Octopus,Octopus
+5708020101,Japetella diaphana (octopus),Octopoda,Octopoda,Octopoda,Octopus,Octopus
+5708020102,Japatella heathi (octopod),Octopoda,Octopoda,Octopoda,Octopus,Octopus
+5708030101,Octops,Octopoda,Octopoda,Octopoda,Octopus,Octopus
+5708070101,flapjack devilfish Opisthoteuthis californiana,Octopoda,Octopoda,Octopoda,Octopus,Octopus
+5900000000,Arachnida,Arachnida,Misc Invert,Other,Misc. Crustacean,Epifauna
+5905000000,Scorpiones,Scorpiones,Misc Invert,Other,Misc. Crustacean,Epifauna
+6000000000,Pycnogonida (sea spider),Pycnogonida,Misc Invert,Other,Misc. Crustacean,Epifauna
+6100000000,Crustacea,General_crustacea,Misc Crustacea,Other,Gen. Crustacea,Epifauna
+6109050000,Polyphemidae (cladoceran),Cladocerans,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6110000000,Ostracoda,Ostracoda,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6111000000,Myodocopa (ostracoda),Ostracoda,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6111020300,Cypridina sp (Ostracoda),Ostracoda,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6111030000,Cylindroleberididae (ostracod),Ostracoda,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6111050100,Conchoecia sp. (Ostracoda),Ostracoda,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6117000000,Copepoda,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118000000,Calanoida (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010000,Calanidae (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010200,Calanus sp.,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010201,Calanus cristatus  (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010202,Calanidae (copepod) Calanus hyperboreus,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010203,Calanus glacialis,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010204,Calanus marshallae (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010205,Calanus pacificus (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010206,Calanus plumchrus (copepod),Copepoda,NA,Copepoda,Copepod,Copepods
+6118010208,Calanidae (copepod) Calanus finmarchicus,Copepoda,NA,Copepoda,Copepod,Copepods
+6118010299,Calanidae (copepod) Calanus glacialis/marshallae,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010400,Neocalanus sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010403,Neocalanus cristatus (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010404,Neocalanus plumchrus (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118010499,Calanidae (copepod) Neocalanus flemingeri/plumchru,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118019900,Mesocalanus sp.,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118030000,Eucalanidae (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118030100,Eucalanus sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118030102,Eucalanus bungii (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118030200,Rhincalanus sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118040100,Paracalanus sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118050000,Pseudocalanidae (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118050100,Clausocalanus sp.,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118050200,Ctenocalanus so.,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118050400,Clausocalanidae (copepod) Microcalanus sp.,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118050402,Clausocalanidae (copepod) Microcalanus pygmaeus,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118050500,Pseudocalanus sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118070000,Aetideidae (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118070100,Aetideopsis sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118070200,Aetideus sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118070201,Aetideus armatus,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118070600,Chiridius sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118070900,Euchirella sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118070903,Euchirella curticauda (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118071000,Gaetanus sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118071100,Gaidius sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118080000,Euchaetidae (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118080100,Euchaeta sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118080110,Euchaeta elongata (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118160000,Metridiidae (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118160101,Gaussia princeps (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118160200,Metridia sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118160207,Metridia lucens (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118160208,Metridia okhotensis (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118160210,Metridiidae (copepod) Metridia priceps,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118160299,Metridiidae (copepod) Metridia lucens/pacifica,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118160300,Pleuromamma sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118160305,Metridiidae (copepod) Pleuromamma robusta,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118160306,Pleuromamma scutullata (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118170100,Centropages sp.,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118170101,Centropagidae (copepod) Centropages abdominalis,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118200000,Temoridae (copepod) ,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118200203,Temoridae (copepod) Eurytemora herdmani,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118210100,Lucicutia sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118220200,Heterorhabdus sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118220210,Heterorhabdus tanneri (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118220300,Heterostylites sp (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118220302,Heterostylites major (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118230601,Pachyptilus pacificus (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118260100,Candacia sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118260102,Candacia columbiae (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118270000,Pontellidae (Calanoid Copepod) ,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118270100,Epilabidocera sp. (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118270102,Pontellidae (copepod) Epilabidocera longipedata,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118290000,Acartiidae (copepod) ,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118290100,Acartia sp.,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118290103,Acartia longiremis (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118300100,Tortanus sp (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118300101,Tortanus discaudatus (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118999991,Large calanoid (copepod) > 5mm,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118999992,Medium calanoid (copepod) 2-5mm,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118999993,Small calanoid (copepod) < 2mm,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118999994,Rooper's Copes < 2.5 mm (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6118999995,Rooper's Copes => 2.5 mm (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6119000000,Harpacticoida (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6119090100,Ectinosomatidae (copepod) Microsetella sp.,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6119090101,Ectinosomatidae (copepod) Microsetella norvegica,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6119090102,Ectinosomatidae (copepod) Microsetella rosea,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6119999999,Harpactacoida - Benthic (copepod) ,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6120000000,copepod Cyclopoida,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6120010300,Oncaea sp.,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6120010401,Pseudolubbockia dilatata (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6120040100,Corycaeus sp.,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6120090100,Oithona sp.,Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6122000000,Monstrilloida (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6123000000,Caligoida (copepod),Copepoda,Copepoda,Copepoda,Copepod,Copepods
+6129000000,Arguloidea (brachiopod),Brachiopod,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6130000000,Cirripedia (barnacle),Barnacle,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6132000000,Lepadomorpha (pedunculate barnacles),Barnacle,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6132050300,Lepas sp. (pelagic barnacle),Barnacle,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6134000000,Balanomorpha (barnacle),Barnacle,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6137000000,Apygophora (barnacle),Barnacle,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6143000000,Malacostraca,Misc_Malacostraca,Misc Crustacea,Other,Mysid,Shrimp
+6144000000,Malacostraca Phyllocarida ,Misc_Malacostraca,Misc Crustacea,Other,Mysid,Shrimp
+6145000000,Malacostraca Leptostraca,Misc_Malacostraca,Misc Crustacea,Other,Mysid,Shrimp
+6145010100,Nebaliidae (Leptostraca) Nebalia sp.,Misc_Malacostraca,Misc Crustacea,Other,Mysid,Shrimp
+6145010101,Malacostraca Leptostraca Nebalia bipes,Misc_Malacostraca,Misc Crustacea,Other,Mysid,Shrimp
+6145010200,leptostraca Nebaliella spp.,Misc_Malacostraca,Misc Crustacea,Other,Mysid,Shrimp
+6149000000,Peracarida (Alison's code) ,Misc_Malacostraca,NA,Other,Mysid,Shrimp
+6151000000,Mysidacea (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6152000000,Lophogastrida (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6152010000,Lophogastridae (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6152010100,Gnathophausia sp.,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6152010101,Gnathophausia gigas (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6152010105,Gnathophausia ingens (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6152020000,Eucopiidae,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6152020100,Eucopia sp.,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6152020101,Eucopia unguiculata (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6152020103,Eucopia grimaldii,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153000000,Mysida (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010000,Mysidae (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010100,Acanthomysis sp. (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010101,Acanthomysis columbiae,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010103,Acanthomysis dybowskii (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010104,Acanthomysis marcropsis (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010105,Acanthomysis nephrophthalma (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010106,Acanthomysis pseudomacropsis (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010107,Mysid Holmesimysis sculpta,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010108,Acanthomysis stelleri (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010111,Exacanthomysis alaskensis (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010112,Exacanthomysis arctopacifica (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010200,Amblyops sp. (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010301,Archaeomysis grebnitzkii (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010400,Boreomysis sp. (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153010901,Holmesiella anomala (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011200,Meterythrops sp. (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011201,Meterythrops robusta (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011203,Meterythrops micropthalmus (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011403,Mysidae Mysis oculata,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011500,Neomysis sp. (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011501,Neomysis awatschensis (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011502,Neomysis czerniawskii (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011503,Mysidae (mysid) Neomysis intermedia,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011504,Neomysis kadiakensis (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011505,Neomysis mercedis,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011506,Neomysis mirabilis,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011507,Neomysis rayii (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011900,Pseudomma sp. (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011901,Psuedomma berkeleyi (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153011902,Pseudomma truncatum (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153012000,Stilomysis sp. (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153012002,Mysidae (mysid) Stilomysis grandis,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153012301,Mysidae (mysid) Erythrops erythrophthalma,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153012604,Archaeomysis maculata (mysid),Mysidacea,NA,Mysidacea,Mysid,Shrimp
+6153015500,Mysidae (Mysid) Michthyops sp.,Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6153020300,Petalophthalmus sp. (mysid),Mysidacea,Mysidacea,Mysidacea,Mysid,Shrimp
+6154000000,Cumacea (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154010000,Lampropidae (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154010100,Lamprops sp. (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154040000,Leuconidae (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154040100,Leucon sp. (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154040101,Leucon nasica (Leuconidae),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154040104,Cumacean Leucon magnadentatus,Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154040200,Eudorella sp. (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154040300,Leuconidae (cumacean) Eudorellopsis sp.,Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154040301,Eudorellopsis integra (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154040302,Eudorellopsis derzhavini (Leuconidae),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154040304,Eudorellopsis deformis (Leuconidae),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154050000,Diastylidae (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154050100,Diastylis sp. (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154050103,Diastylis bidentata (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154050200,Diastylopsis sp. (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154050400,Diastylidae (cumacean) Leptostylis sp.,Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154050501,Colurostylis occidentalis (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154050800,Oxyurostylis sp. (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154080100,Cumella sp. (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154090000,Bodotriidae (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154090200,Cyclaspis sp. (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6154090300,Leptocuma sp. (cumacean),Cumacea,Cumacea,Other,Misc. Crustacean,Epifauna
+6155000000,Tanaidacea (peracaridan),Tanaidacea,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6158000000,Isopoda (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6159010100,Gnathia sp. (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6160000000,Anthuridea (Isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6161000000,Flabellifera (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6161020300,Gnorimosphaeroma sp. (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6161020601,Ancinus depressus (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6161070203,Rocinela augustata (Sea cockroach),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6162000000,Valvifera (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6162010000,Arcturidae (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6162010200,Arcturus sp.,Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6162010202,Arcturus longispinus (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6162020000,Idoteidae (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6162020101,Idoteidae (isopod) Saduria entomon,Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6162020200,Synidotea sp. (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6162020205,Synidotea nodulosa Synidotea nodulosa,Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6162020303,Synidotea fewkosi (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6163000000,Asellota (isopod),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6163060800,Caecijaera sp. (isopoda),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6164000000,Microcerberidea,Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6167000000,Phreatoicidea (Isopod suborder),Isopoda,Isopoda,Other,Misc. Crustacean,Epifauna
+6168000000,Amphipoda (amphipod),General_Amphipod,Misc Amphipoda,Amphipoda,Benth Amph,Amphipods
+6168150000,Corophiidea (amphipod),Corophiidea,Misc Amphipoda,Amphipoda,Benth Amph,Amphipods
+6169000000,Gammaridea (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169000099,Type a gammarid amphipod ( *** temp. num ***),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169010000,Acanthonotozomatidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169010100,Iphimediidae (amphipod) Acanthonotozoma sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020000,Ampeliscidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020100,Ampelisca sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020101,Ampelisca macrocephala (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020105,Ampeliscidae (amphipod) Ampelisca eschrichti,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020200,Byblis sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020201,Byblis crassicornis (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020202,Byblis gaimardi (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020207,Byblis longicornis (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020208,Byblis abyssi (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020209,Byblis erythrops (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020300,Ampeliscidae (amphipod) Haploops sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169020302,Ampeliscidae (amphipod) Haploops laevis,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169030000,Amphilochidae (amphipod) ,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169060000,Aoridae  (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169060300,Lembos sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169061400,Aoridae (amphipod) Arctolembos sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169069900,Aoridae (amphipod) Unciola sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169069901,Aoridae (amphipod) Unciola leucopis,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169090105,Atylus collingi (amphipod),Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169120000,Calliopiidae (amphipod) ,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169120100,Calliopiidae (amphipod) Apherusa sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169120200,Calliopiidae Calliopius sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169120405,Calliopiidae (amphipod) Halirages nilssoni,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169121401,Calliopiidae (amphipod) Weyprechtia heugleni,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169129900,Calliopiidae (amphipod) Paracalliopiella sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169150000,Corophiidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169150300,Ericthonius sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169150500,Neohela sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169159900,Corophiidae (amphipod) Crassicorophium sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169200000,Eusiridae (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169200300,Cleonardopsis sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169200500,Eusirella sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169200501,Eusiriella multicalcaeola (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169200800,Eusiridae (amphipod) Eusirus sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169200802,Eusiridae Eusirus cuspidatus,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169201200,Pontogeneia sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169201300,Rhachotropis sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169201305,Eusiridae (amphipod) Rhachotropis aculeata,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169201307,Rhachotropis oculata (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169201401,Eusiridae (amphipod) Rozinante fragilis,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169210000,Gammaridae (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169210700,Gammaridae (amphipod) Gammarus sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169210800,Maera sp. (amphipod),Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169210802,Maera loveni (amphipod),Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169211000,Melita sp. (amphipod),Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169211003,Melita dentata  (amphipod),Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169211401,Weyprechtia heugleni (amphipod),Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169220000,Haustoriidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169220100,Eohaustorius sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169220102,Eohaustorius eous (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169220200,Pontoporeia sp. (amphipod),Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169220201,Pontoporeia femorata  (amphipod),Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169260000,Isaeidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169260200,Photis sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169260202,Isaeidae (amphipod) Photis reinhardi,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169260205,Isaeidae (amphipod) Photis fischmanni,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169260300,Protomedeia sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169260301,Isaeidae (amphipod) Protomedeia fasciata,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169260303,Protomedeia grandimana (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169260400,Gammaropsis sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169260404,Gammaropsis nitida (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169260500,Podoceropsis sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169260501,Podoceropsis nitida (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169269901,Cheiriphotis megacheles  (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169270000,Ischyroceridae (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169270200,Ischyrocerus sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169270500,Parajassa sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169279900,Ischyroceridae (amphipod) Erichthonius sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169279905,Ischyroceridae (amphipod) Erichthonius tolli,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169280100,Gammarid Isopod (Maera sp) Maera sp.,Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169330000,Liljeborgiidae (amphipod) ,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169340000,Lysianassidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169340300,Anonyx sp. (amphipod),Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169341100,Cyphocaris sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169341400,Hippomedon sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169341402,Lysianassidae Hippomedon denticulatus,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169342104,Lysianassidae Lepidepecreum cormatum,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169342700,Lysianassidae (amphipod) Onisimus sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169343200,Scopelocheiridae (amphipod) Paracallisoma spp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169344700,Valettiopsis sp. (amphipod),Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169345401,Alicella gigantea(amphipod),Gammaridea,NA,Amphipoda,Benth Amph,Amphipods
+6169345501,Valettia coheres (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169345600,Lysianassidae (amphipod) Wecomedon sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169345601,Lysianassidae (amphipod) Wecomedon similis,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169350000,Melphidippidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169350100,Melphidippa sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169370000,Oedicerotidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169370200,Aceroides sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169370201,Oedicerotidae (amphipod) Aceroides latipes,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169370401,Arrhis luthkei (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169370500,Bathymedon sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169370504,Bathymedon nanseni (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169370800,Monoculodes sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169370801,Monoculodes borealis (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169370802,Monoculodes castalskii (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169370816,Monoculodes zernovi (amphipoda),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169371302,Pontocrates arenarius (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169371500,Westwoodilla sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169371502,Westwoodilla caecula (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169379900,Oedicerotidae (amphipod) Pacifoculodes sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169390000,Gammarid amphipod Epimeriidae,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169390300,Epimeriidae (amphipod) Paramphithoe sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169400000,Pardaliscidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169400100,Pardaliscidae (amphipod) Halice sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169400300,Pardalisca sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169420000,Phoxocephalidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169420100,Harpinia sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169420105,Harpinia gurjanovae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169420200,Phoxocephalidae (amphipod) Harpiniopsis sp.,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169420300,Heterophoxus sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169420900,Paraphoxus sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169421100,Proharpinia sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169421706,Phoxocephalidae Grandifoxus acanthinus,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169429800,Phoxocephalidae (amphipod) Foxiphalus sp.,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169429900,Phoxocephalidae (amphipod) Harpiniinae (subfamily),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169430000,Pleustidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169430405,Pleustidae (amphipod) Pleustes panoplus,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169430500,Pleusymtes sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169430503,Pleusymtes glaber (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169440000,Podoceridae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169440100,Dulichia sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169440106,Podoceridae (amphipod) Dulichia spinosissima,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169440199,Podoceridae (amphipod) Dyopedos sp.,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169470000,Stegocephalidae (Amphipod) ,Gammaridea,Gammaridea,Amphipoda,Benth Amph,Amphipods
+6169470301,Parandania boecki (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169480000,Stenothoidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169480302,Stenothoidae (amphipod) Metopella longimanna,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169480400,Metopelloides sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169480500,Stenothoidae (amphipod) Metopa sp.,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169490201,Stilipedidae (amphipod) Stilipes distincta,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169500000,Synopiidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169500300,Syrrhoe sp. (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169500301,Syrrhoe crenulata (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169500303,Synopiidae (amphipod) Syrrhoe oluta,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169500501,Synopiidae (amphipod) Tiron spiniferum,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169510106,Talitridae (amphipod) Traskorchestia traskiana,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169800000,Gammarid Amphipod Lysianassoidea,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169920000,Alicellidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169925401,Alicellidae (amphipod) Alicella gigantea,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169930000,Valettiopsidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169934700,Valettiopsidae (amphipod) Valettiopsis sp.,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169940000,Atylidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169940105,Atylidae (amphipod) Atylus collingi,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169950000,Uristidae (amphipod),Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169950300,Uristidae (amphipod) Anonyx sp.,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169950302,Uristidae (amphipod) Anonyx nugax,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169950399,Uristidae (amphipod) Anonyx gurjanovai,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169960000,Maeridae (amphipod) ,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169960800,Maeridae (amphipod) Maera sp.,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169960801,Maeridae (amphipod) Maera danae,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169960802,Maeridae  (amphipod) Maera loveni,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169970000,Pontoporeiidae (amphipod) ,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169970200,Pontoporeiidae (amphipod) Pontoporeia sp.,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169970201,Pontoporeiidae (amphipod) Pontoporeia femorata,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169970301,Pontoporeiidae (amphipod) Priscillina armata,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169980000,Urothoidae (amphipod) ,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169980400,Urothoidae (amphipod) Urothoe sp.,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169990000,Melitidae (amphipod) ,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169991000,Melitidae (amphipod) Melita sp.,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169991002,Melitidae (amphipod) Melita formosa,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169991003,Melitidae (amphipod) Melita dentata,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169991100,Melitidae (amphipod) Melitoides sp.,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169991101,Melitidae (amphipod) Melitoides makarovi,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169999800,Melitidae (amphipod) Megamoera sp.,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169999801,Melitidae (amphipod) Megamoera dentata,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169999899,Melitidae (amphipod) Megamoera mikulitschae,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6169999901,Melitidae (amphipod) Quasimelita formosa,Gammaridea,Gammaridea,Amphipoda,Pel Amph,Amphipods
+6170000000,Hyperiidea (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170010000,Hyperiidae (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170010100,Hyperia sp. (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170010101,Hyperiidae (amphipod) Hyperia galba,Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170010103,Hyperia medusarum (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170010105,Hyperia anarctica (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170010700,Hyperoche sp. (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Benth Amph,Amphipods
+6170011000,Themisto sp. (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Benth Amph,Amphipods
+6170011001,Parathemisto groacilepes (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Benth Amph,Amphipods
+6170011002,Parathemisto libellula (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170011003,Themisto pacifica (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170011004,Themisto japonica  (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170011005,Themisto abyssorum (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170030000,Phronimidae,Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170030100,Phronima,Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170030101,Phronimidae (amphipod) Phronima sedentaria,Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170040000,Phrosinidae (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170040300,Primno sp. (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170040302,Primno macropa (amphipod),Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170050100,Lycaeopsidae (amphipod) Lycaeopsis sp.,Hyperiidea,Hyperiidea,Amphipoda,Pel Amph,Amphipods
+6170080100,Lycaea,Hyperiidea,Hyperiidea,Amphipoda,Benth Amph,Amphipods
+6170150100,Scina,Hyperiidea,Hyperiidea,Amphipoda,Benth Amph,Amphipods
+6170160300,Hyperiidea (Amphipod) Mimonecteola sp.,Hyperiidea,Hyperiidea,Amphipoda,Benth Amph,Amphipods
+6170180100,Lanceolidae (amphipod) Lanceola sp.,Hyperiidea,Hyperiidea,Amphipoda,Benth Amph,Amphipods
+6170190100,Vibilia sp.,Hyperiidea,Hyperiidea,Amphipoda,Benth Amph,Amphipods
+6170210100,Paraphronima,Hyperiidea,Hyperiidea,Amphipoda,Benth Amph,Amphipods
+6171000000,Caprellidea (amphipod),Capreillidea,Capreillidea,Amphipoda,Benth Amph,Amphipods
+6171010000,Caprellidae (amphipod),Capreillidea,Capreillidea,Amphipoda,Benth Amph,Amphipods
+6171010700,Caprellidae (amphipod) Caprella sp.,Capreillidea,Capreillidea,Amphipoda,Benth Amph,Amphipods
+6171010722,Caprella striata (amphipod),Capreillidea,Capreillidea,Amphipoda,Benth Amph,Amphipods
+6173000000,Eucarida,Eucarida,Misc Crustacea,Other,Misc. Crustacean,Epifauna
+6174000000,Euphausiacea (euphausiid),General_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174010000,Bentheuphausiidae,General_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020000,Euphausiidae (euphausiid),General_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020001,Calytopsis larvae (euphausiid),Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020002,Furcilia larvae (euphausiid),Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020100,Euphausia sp. (euphausiid),Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020101,Euphausia pacifica (euphausiid),Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020126,Euphausia gibboides (euphausiid),Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020302,Nematobrachion boopis,Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020400,Nematoscelis sp.,Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020401,Nematoscelis difficilis (euphausiid),Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020504,Nyctiphanes simplex (euphausiid),Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020701,Stylocheiron longicorne (euphausiid),Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020702,Stylocheiron maximum,Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020801,Tessarabrachion oculatum,Misc_Euphausiid,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020900,Thysanoessa sp. (euphausiid),General_Thysanoessa,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020902,Thysanoessa inermis (euphausiid),Thysanoessa_inermis,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020903,Thysanoessa inspinata (euphausiid),Thysanoessa_inspinata,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020905,Thysanoessa longipes (euphausiid),Thysanoessa_longipes,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020906,Thysanoessa raschi (euphausiid),Thysanoessa_raschi,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6174020907,Thysanoessa spinifera (euphausiid),Thysanoessa_spinifera,Euphausiacea,Euphausiacea,Euphausiid,Euphausiid
+6175000000,Decapoda (shrimp and crab),Misc_Decapoda,Misc Decapoda,Shrimp,Gen. Particulate,Oth.nonfish
+6177010000,Penaeidae,Misc_Decapoda,Misc Decapoda,Shrimp,NP Shrimp,Shrimp
+6177010301,Metapenaeopsis goodei,Misc_Decapoda,Misc Decapoda,Shrimp,NP Shrimp,Shrimp
+6177020000,Sergestidae (sergestid shrimp),Sergestidae_shrimp,Misc Decapoda,Shrimp,NP Shrimp,Shrimp
+6177020300,Sergestes sp. (sergestid shrimp),Sergestidae_shrimp,Misc Decapoda,Shrimp,NP Shrimp,Shrimp
+6177020301,Sergestes similis (Pacific sergestid),Sergestidae_shrimp,Misc Decapoda,Shrimp,NP Shrimp,Shrimp
+6177060100,Bentheogennema sp. (blunt tailed shrimp),Benthesicymidae_shrimp,Misc Decapoda,Shrimp,NP Shrimp,Shrimp
+6177060101,Bentheogennema borealis (Northern blunt-tailed shrimp),Benthesicymidae_shrimp,Misc Decapoda,Shrimp,NP Shrimp,Shrimp
+6177060102,Bentheogennema bu (Burkenroad's blunt-tailed shrimp),Benthesicymidae_shrimp,Misc Decapoda,Shrimp,NP Shrimp,Shrimp
+6178000000,Natantia (shrimp),General_Shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6178000099,Unidentified deep water shrimp (re:Troy,General_Shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179000000,Caridea (shrimp),General_Shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179010000,Oplophoridae (shrimp),Oplophoridae_shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179010100,Hymenodora sp. (shrimp),Oplophoridae_shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179010102,Hymenodora frontalis (Pacific amber eye),Oplophoridae_shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179010501,Notostomus japonicus (Oplophoridae),Oplophoridae_shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179050000,Pasiphaeidae (shrimp),Pasiphaeidae_shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179050100,Pasiphaea sp. (glass shrimp),Pasiphaeidae_shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179050101,Pasiphaea pacifica (shrimp),Pasiphaeidae_shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179050103,Pasiphaea tarda (crimson pasiphaeid shrimp),Pasiphaeidae_shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179050300,Parapasiphae sp. (grooved-back shrimp),Pasiphaeidae_shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179050301,Parapasiphae sulcatiformes,Pasiphaeidae_shrimp,Misc Shrimp,Shrimp,NP Shrimp,Shrimp
+6179160000,Hippolytidae (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160200,Spirontocaris sp. (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160201,Spirontocaris prionota (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160202,Spirontocaris lamellicornis (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160206,Spirontocaris ochotensis (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160210,Spirontocaris arcuata (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160212,Spirontocaris sica (dagger bladed shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160214,Spirontocaris holmesi (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160298,Blunt bladed shrimp Spirontocaris truncata,Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160299,Hippolytidae (shrimp) Spirontocaris intermedia,Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160300,Lebbeus sp. (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160301,Lebbeus groenlandicus (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160305,Lebbeus polaris (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160306,Lebbeus grandimana (candy stripe shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160398,false candy-stripe Lebbeus acudactylus,Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160399,Cleaner lebbid (shrimp) Lebbeus mundus,Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160400,Eualus sp. (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160401,Eualus barbatus (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160402,Eualus biunguis (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160403,Eualus macrophthalmus (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160404,Eualus fabricii (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160405,Eualus suckleyi (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160406,Eualus gaimardii (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160407,Eualus townsendi (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160408,Eualus pusiolus (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160410,Eualus stoneyi (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160411,Eualus avinus (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160412,Eualus macilentus (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160500,Heptacarpus sp. (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160501,Heptacarpus decorus (elegant coastal shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160502,Heptacarpus tridens (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160503,Heptacarpus stylus (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160504,Aleutian coastal shrimp (shrimp) Heptacarpus maxil,Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160505,Heptacarpus camtschatica (northern coastal shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160507,Heptacarpus moseri (shrimp),Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179160509,Slenderbeak coastal shrimp Heptacarpus flexus,Hippolytidae_shrimp,Hippolytidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179180000,Pandalidae (shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180100,Pandalus sp. (shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180101,Pandalus borealis (shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180102,Pandalus goniurus (shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180103,Pandalus jordani (shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180104,Pandalus montagui tridens (shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180105,Pandalus platyceros (shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180106,Pandalus hypsinotus (humpback shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180107,Pandalus danae (coonstripe shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180108,Pandalus stenolepis (shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180200,Pandalopsis sp. (shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180201,Pandalopsis ampla (shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180202,Pandalopsis aleutica (shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179180204,Pandalopsis dispar (sidestripe shrimp),Pandalidae_shrimp,Pandalidae (shrimp),Shrimp,Pandalidae,Shrimp
+6179220000,Crangonidae (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220100,Crangon sp. (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220102,Crangon alaskensis (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220103,Crangon septemspirosa (Sand shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220104,Crangon alba (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220105,Crangon stylirostris (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220106,Crangon dalli (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220107,Crangon franciscorum,Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220109,Crangon communis (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220113,Crangon variabilis,Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220116,Crangon resima (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220124,Crangon abyssorum (abyssal crangon),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220200,Sclerocrangon,Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220201,Sclerocrangon boreas (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220202,Rhynocrangon alata (saddle-back shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220203,Sclerocrangon sharpi,Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220300,Argis sp. (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220301,Argis lar (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220302,Argis dentata (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220303,Argis ovifer (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220304,Argis alaskensis (shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220305,Argis crassa,Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220306,Argis levior (Nelson's argid),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220401,horned shrimp (shrimp) Paracrangon echinata,Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179220501,Sevenline Shrimp Sabinea septemcarinata,Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179221100,Rhynocrangon sp.,Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179221300,Metacrangon sp. (spinyhead shrimp),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179221303,Metacrangon munita,Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179221305,Metacrangon spinosissima (southern spinyhead),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179221306,Metacrangon variabilis (deepsea spinyhead),Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179221400,Crangonidae (shrimp) Neocrangon sp.,Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6179229900,Crangon Complex,Crangonidae_shrimp,Crangonidae (shrimp),Shrimp,NP Shrimp,Shrimp
+6180000000,Reptantia (crab),General_crab,Misc Crab,Misc Crab,Gen. Crab,Epifauna
+6180000001,Decapoda Reptantia legs (for unident. crabs),General_crab,Misc Crab,Misc Crab,Gen. Crab,Epifauna
+6182030102,Stereomastis sculpta (polychelid lobster),Lobster,Misc Crab,Misc Crab,Misc. Crab,Epifauna
+6183000000,Anomura (crab),Misc_Anomura,Misc Anomura,Misc Crab,Gen. Crab,Epifauna
+6183004001,Pleuroncodes planipes (pelagic red crab),Misc_Anomura,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183020000,Axiidae (Mud shrimps),Misc_Anomura,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183020100,Axiidae (Mud shrimps) Calastacus spp.,Misc_Anomura,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183020101,Calastacus investigatoris (mud shrimp),Misc_Anomura,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183020103,Calastacus quinqueseriatus (mud shrimp),Misc_Anomura,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183020400,Axiopsis sp. (mud shrimp),Misc_Anomura,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183020402,Axiopsis spinulicauda (mud shrimp),Misc_Anomura,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183040000,Callianassidae (mud shrimp),Misc_Anomura,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183040200,Callianopsis sp. (mud shrimp),Misc_Anomura,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183040203,Callianassa goniopthalma (mud shrimp),Misc_Anomura,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183040204,Callianassa californiensis (ghost shrimp),Misc_Anomura,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183060000,Paguridae (hermit crab),General_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060001,Paguridae legs (hermit crabs),General_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060200,Pagurus sp. (hermit crab),Pagurus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060202,Pagurus ochotensis (hermit crab),Pagurus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060203,Pagurus aleuticus (aleutian hermit),Pagurus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060205,Hairy hermit Pagurus capillatus,Pagurus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060207,Pagurus kennerlyi (blue spined hermit),Pagurus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060216,Pagurus confragosus (knobby hand hermit),Pagurus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060217,Pagurus tanneri (Longhand hermit crab),Pagurus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060218,Pagurus cornutus (corny hand hermit),Pagurus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060219,Pagurus trigonocheirus (hermit crab),Pagurus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060221,Pagurus brandti (sponge hermit crab),Pagurus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060225,Pagurus rathbuni (hermit crab),Pagurus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060300,Elassochirus sp.,Elassochirus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060301,Elassochirus tenuimanus (widehand hermit),Elassochirus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060302,Elassochirus cavimanus (purple hermit crab),Elassochirus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060303,Elassochirus gilli (red hermit crab),Elassochirus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183060401,Labidochirus splendescens (splendid hermit crab),Labidochirus_hermits,Paguridae,Misc Crab,Hermit Crab,Epifauna
+6183080000,Lithodidae (king crab),General_king_crab,Misc Lithodidae,King Crab,King Crab,King.crab
+6183080001,Lithodidae (king crab - legs only),General_king_crab,Misc Lithodidae,King Crab,King Crab,King.crab
+6183080101,Acantholithodes hispidus (fussy crab),Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183080201,Hapalogaster grebnitzkii,Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183080301,Dermaturus mandtii (wrinkled crab),Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183080501,Placetron wosnessenskii (scale crab),Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183080601,Phyllolithodes papillosus,Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183080700,Paralithodes sp. (king crab),General_king_crab,Misc Lithodidae,King Crab,King Crab,King.crab
+6183080701,Paralithodes camtschatica (red king crab),Red_king_crab,Red King Crab,King Crab,King Crab,King.crab
+6183080702,Paralithodes platypus (blue king crab),Blue_king_crab,Blue King Crab,King Crab,King Crab,King.crab
+6183080703,Paralithodes brevipes (brown king crab),Brown_king_crab,Misc Lithodidae,King Crab,King Crab,King.crab
+6183080801,Lithodes aequispina (golden king crab),Golden_king_crab,Misc Lithodidae,King Crab,King Crab,King.crab
+6183080802,Lithodes couesi (couesi king crab),Couesi_king_crab,Misc Lithodidae,King Crab,King Crab,King.crab
+6183080901,Paralomis multispina (crab),Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183081000,Lopholithodes sp. (box crab),Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183081001,Lopholithodes mandtii (red box crab),Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183081002,Lopholithodes foraminatus (brown box crab),Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183081101,Cryptolithodes sitchensis (Umbrella crab),Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183081102,Cryptolithodes typicus (umbrella crab),Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183081201,Rhinolithodes wosnessenskii (rhinoceros crab),Misc_Lithodidae,Misc Lithodidae,Misc Crab,Misc. Crab,Epifauna
+6183100000,Galatheidae (pelagic slip crabs),Galatheoidea,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183100099,Galatheoidea (superfamily),Galatheoidea,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183100101,Munida quadrispina (pinch bug),Galatheoidea,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183100200,Munidopsis sp. (squat lobster),Galatheoidea,Misc Anomura,Misc Crab,Misc. Crab,Epifauna
+6183120000,Porcellanidae (crab),Porcellanidae,Misc Crab,Misc Crab,Misc. Crab,Epifauna
+6184000000,Decapoda brachyura (crab),General_crab,Misc Brachyura,Misc Crab,Misc. Crab,Epifauna
+6187000000,Oxyrhyncha,General_crab,Misc Brachyura,Misc Crab,Misc. Crab,Epifauna
+6187000001,Decapoda Reptantia legs (for unident. crabs),General_crab,Misc Brachyura,Misc Crab,Misc. Crab,Epifauna
+6187010000,Majidae (spider crab),General_Majidae,Misc Majidae,Misc Crab,Misc. Crab,Epifauna
+6187010001,"Majidae legs (for C. opilio, C. bairdi, etc)",General_Majidae,Misc Majidae,Misc Crab,Misc. Crab,Epifauna
+6187010100,Oregonia sp. (decorator crab),Oregonia_crab,Misc Majidae,Misc Crab,Misc. Crab,Epifauna
+6187010101,Oregonia gracilis (decorator crab),Oregonia_crab,Misc Majidae,Misc Crab,Misc. Crab,Epifauna
+6187010102,Oregonia bifurca (decorator crab),Oregonia_crab,Misc Majidae,Misc Crab,Misc. Crab,Epifauna
+6187010200,Hyas sp. (lyre crab),Hyas_crab,Misc Majidae,Misc Crab,Misc. Crab,Epifauna
+6187010201,Hyas lyratus (lyre crab),Hyas_crab,Misc Majidae,Misc Crab,Misc. Crab,Epifauna
+6187010202,Hyas coarctatus (lyre crab),Hyas_crab,Misc Majidae,Misc Crab,Misc. Crab,Epifauna
+6187010211,Hyas coarctatus alutaceus (lyre crab),Hyas_crab,NA,Misc Crab,Misc. Crab,Epifauna
+6187010300,Chionoecetes sp. (snow and Tanner crab),General_Chionoecetes,Chionoecetes spp.,Opilio_or_Bairdi,Unid Chion,Unid.Chion
+6187010301,Chionoecetes opilio (snow crab),Opilio_crab,Opilio Crab,Opilio,Opilo,Opilio
+6187010302,Chionoecetes bairdi (Tanner crab),Bairdi_crab,Tanner Crab,Bairdi,Bairdi,Bairdi
+6187010303,Chionoecetes angulatus (triangle Tanner crab),Misc_tanner_crab,Misc Majidae,Misc Crab,Unid Chion,Unid.Chion
+6187010304,Chionoecetes tanneri (grooved Tanner crab),Misc_tanner_crab,Misc Majidae,Misc Crab,Unid Chion,Unid.Chion
+6187010305,Chionoecetes Hybrid (Tanner hybrid),General_Chionoecetes,Misc Majidae,Misc Crab,Unid Chion,Unid.Chion
+6187010502,Pugettia richii (kelp crab),Pugettia_crab,Misc Majidae,Misc Crab,Misc. Crab,Epifauna
+6187010503,Pugettia gracilis (kelp crab),Pugettia_crab,Misc Majidae,Misc Crab,Misc. Crab,Epifauna
+6187010801,Chorilia longipes (decorator crab),Chorilia_crab,Misc Majidae,Misc Crab,Misc. Crab,Epifauna
+6188000000,Cancridea (crab),General_Cancridea,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6188020000,Atelecyclidae (crab),Hair_crabs,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6188020001,Atelecyclaidae legs (for Korean horsehair and hair crabs),Hair_crabs,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6188020101,Telmessus cheiragonus (hair crab),Hair_crabs,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6188020201,Erimacrus isenbeckii (Korean horse-hair crab),Hair_crabs,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6188030000,Cancridae (crab),Cancridae,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6188030100,Cancer sp. (crab),Cancridae,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6188030103,Cancer branneri (furrowed rock crab),Cancridae,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6188030104,Cancer magister (dungeness crab),Cancridae,Cancridea,Misc Crab,Dungeness,Epifauna
+6188030105,Cancer gracilis (graceful Cancer crab),Cancridae,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6188030106,Cancer oregonensis (pygmy Cancer crab),Cancridae,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6189020000,Xanthida (mud crab),Mud_crab,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6189060000,Pinnotheridae (pea crab),Pea_crab,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6189060400,Pinnixa sp. (pea crab),Pea_crab,Cancridea,Misc Crab,Misc. Crab,Epifauna
+6200000000,Insecta (insect),Insect,Misc Invert,Benthos,Misc. Crustacean,Epifauna
+6505080000,Chironomidae (midge),Insect,Misc Invert,Benthos,Misc. Crustacean,Epifauna
+7200000000,Sipuncula (marine worm),Sipuncula,Misc Worm,Benthos,Misc. Worm. Etc.,Infauna
+7200020102,Golfingia margaritacea (sipunculid),Sipuncula,Misc Worm,Benthos,Misc. Worm. Etc.,Infauna
+7200040100,Phascolosoma sp. (marine worm),Peanut_worm,Misc Worm,Benthos,Misc. Worm. Etc.,Infauna
+7300000000,Echiura (marine worm),Echiura_worm,Misc Worm,Benthos,Misc. Worm. Etc.,Infauna
+7301000000,Echiuroidea (marine worm),Echiura_worm,Misc Worm,Benthos,Misc. Worm. Etc.,Infauna
+7301020000,Echiuridae (marine worm),Echiura_worm,Misc Worm,Benthos,Misc. Worm. Etc.,Infauna
+7301020100,Arhynchite sp.,Echiura_worm,Misc Worm,Benthos,Misc. Worm. Etc.,Infauna
+7301020200,Echiurus sp. (marine worm),Echiura_worm,Misc Worm,Benthos,Misc. Worm. Etc.,Infauna
+7301020201,Echiurus echiurus (marine worm),Echiura_worm,Misc Worm,Benthos,Misc. Worm. Etc.,Infauna
+7400000000,Priapulida (worm),Priapulida_worm,Misc Worm,Benthos,Misc. Worm. Etc.,Infauna
+7400010101,Priapulidae Priapulus caudatus,Priapulida_worm,Misc Worm,Benthos,Misc. Worm. Etc.,Infauna
+7800000000,Ectoprocta (bryozoan),Bryozoan,Misc Invert,Benthos,Misc. Worm. Etc.,Infauna
+7814000000,Cheilostomata (bryozoan),Bryozoan,Misc Invert,Benthos,Misc. Worm. Etc.,Infauna
+8000000000,Brachiopoda (brachiopod),Brachiopoda,Misc Invert,Benthos,Misc. Worm. Etc.,Infauna
+8100000000,"Echinodermata (sea star, cucumber, urchin)",General_echinoderm,Misc Echinoderm,Benthos,Gen. Echinoderm,Epifauna
+8104000000,Asteroidea (starfish),Sea_star,Misc Echinoderm,Benthos,Sea Star,Epifauna
+8107020101,Ctenodiscus crispatus (mud sea star),Sea_star,Misc Echinoderm,Benthos,Sea Star,Epifauna
+8117030000,Asteriidae (starfish),Sea_star,Misc Echinoderm,Benthos,Sea Star,Epifauna
+8117030201,purple-orange star Asterias amurensis,Sea_star,Misc Echinoderm,Benthos,Sea Star,Epifauna
+8120000000,Ophiuroidea (basket  brittle star),Basket_star,Misc Echinoderm,Benthos,Brittle Star,Epifauna
+8125000000,Euryalina (basket star),Basket_star,Misc Echinoderm,Benthos,Brittle Star,Epifauna
+8125030202,Gorgoncephalus eucnemis,Basket_star,Misc Echinoderm,Benthos,Brittle Star,Epifauna
+8126000000,Ophiurida (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8126000001,Brittle star legs (Kevin's code) ,Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8127000000,Chilophiurina (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8127010000,Ophiuridae (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8127010102,Amphiophiura megapoma (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8127010600,Ophiura sp. (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8127010606,Ophiura leptoctenia (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8127010608,Ophiura maculata (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8127010610,Ophiura sarsi (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8127010800,brittle star Stegophiura sp.,Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8127010801,brittle star Amphiophiura nodosa,Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8127030000,Ophiocomidae (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8128010111,Ophiopthalmus normani (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8129020100,Ophiactidae (Daisy Brittle Stars) Ophiopholis sp.,Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8129020101,Ophiopholis aculeata (ubiquitous brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8129030000,Amphiuridae (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8129030101,Amphiodia euryaspis (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8129030200,Amphipholis sp. (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8129030201,Amphipholis pugetana (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8129030202,Amphipholis squamata (brittle star),Brittle_star,Brittle Star,Benthos,Brittle Star,Epifauna
+8135000000,Echinozoa,General_echinoderm,Misc Echinoderm,Benthos,Urchins dollars cucumbers,Epifauna
+8136000000,Echinoidea (sea urchin and sand dollar),General_echinoderm,Misc Echinoderm,Benthos,Urchins dollars cucumbers,Epifauna
+8144000000,Echinacea  (sea urchin),Sea_Urchin,Sea Urchin,Benthos,Urchins dollars cucumbers,Epifauna
+8149030200,Strongylocentrotus sp. (sea urchin),Sea_Urchin,Sea Urchin,Benthos,Urchins dollars cucumbers,Epifauna
+8152000000,Clypeasteroida (sand dollar),Sand_Dollar,Sand Dollar,Benthos,Urchins dollars cucumbers,Epifauna
+8153000000,Clypeasterina (sand dollar),Sand_Dollar,Sand Dollar,Benthos,Urchins dollars cucumbers,Epifauna
+8153010000,Clypeasteridae (sand dollar),Sand_Dollar,Sand Dollar,Benthos,Urchins dollars cucumbers,Epifauna
+8153060000,Sand dollar,Sand_Dollar,Sand Dollar,Benthos,Urchins dollars cucumbers,Epifauna
+8155020101,Echinarachnius parma (Sand dollar),Sand_Dollar,Sand Dollar,Benthos,Urchins dollars cucumbers,Epifauna
+8162040100,mud urchin Brisaster sp.,Sand_Dollar,Sand Dollar,Benthos,Urchins dollars cucumbers,Epifauna
+8170000000,Holothuroidea (sea cucumber),Sea_Cucumber,Sea Cucumber,Benthos,Urchins dollars cucumbers,Epifauna
+8172030200,Psolus sp. (sea cucmber),Sea_Cucumber,Sea Cucumber,Benthos,Urchins dollars cucumbers,Epifauna
+8172060000,Cucumariidae (sea cucumber),Sea_Cucumber,Sea Cucumber,Benthos,Urchins dollars cucumbers,Epifauna
+8172060115,Cucumaria fallax Cucumaria fallax,Sea_Cucumber,Sea Cucumber,Benthos,Urchins dollars cucumbers,Epifauna
+8172060300,Pentamera sp.,Sea_Cucumber,Sea Cucumber,Benthos,Urchins dollars cucumbers,Epifauna
+8172060303,Pentamera lissoplaca (sea cucumber),Sea_Cucumber,Sea Cucumber,Benthos,Urchins dollars cucumbers,Epifauna
+8175030000,Sea Cucmber Synallactidae,Sea_Cucumber,Sea Cucumber,Benthos,Urchins dollars cucumbers,Epifauna
+8175030399,Challenger cucumber Synallactes challengeri,Sea_Cucumber,Sea Cucumber,Benthos,Urchins dollars cucumbers,Epifauna
+8175030400,Bathyplotes sp.(Northern papillated cucumber),Sea_Cucumber,Sea Cucumber,Benthos,Urchins dollars cucumbers,Epifauna
+8185000000,Crinozoa,Crinoidea,Misc Invert,Misc Invert,Chaeteg etc.,Oth.nonfish
+8186000000,crinoidea Crinoidea,Crinoidea,Misc Invert,Misc Invert,Chaeteg etc.,Oth.nonfish
+8200000000,Hemichordata (acorn worm),Acorn_worm,Misc Worm,Misc Worm,Chaeteg etc.,Oth.nonfish
+8201000000,Enteropneusta (acorn worm),Acorn_worm,Misc Worm,Misc Worm,Chaeteg etc.,Oth.nonfish
+8300000000,Chaetognatha (arrow worm),Chaetognatha,Chaetognatha,Chaetognatha,Chaeteg etc.,Oth.nonfish
+8300000300,Sagitta sp. (arrow worm),Chaetognatha,Chaetognatha,Chaetognatha,Chaeteg etc.,Oth.nonfish
+8400000000,Urochordata (tunicate),Tunicate,Tunicate,Tunicate,Benth. Urochordata,Epifauna
+8401000000,Ascidiacea (sea squirt),Tunicate,Tunicate,Tunicate,Benth. Urochordata,Epifauna
+8403010301,Globular ascidian Distaplia occidentalis,Tunicate,Tunicate,Tunicate,Benth. Urochordata,Epifauna
+8404050100,Ascidia sp. (tunicate),Tunicate,Tunicate,Tunicate,Benth. Urochordata,Epifauna
+8406010500,Styela sp. (Sea potatos),Tunicate,Tunicate,Tunicate,Benth. Urochordata,Epifauna
+8406010503,Styela rustica (sea potato),Tunicate,Tunicate,Tunicate,Benth. Urochordata,Epifauna
+8406020200,Boltenia sp. (sea onion),Tunicate,Tunicate,Tunicate,Benth. Urochordata,Epifauna
+8406020202,Boltenia echinata (sea onion),Tunicate,Tunicate,Tunicate,Benth. Urochordata,Epifauna
+8407000000,Thaliacea (pelagic salp),Tunicate,Tunicate,Tunicate,Pel. Gel. Filter Feeder,Oth.nonfish
+8408010100,Pyrosoma sp. (colonial pelagic salp),Tunicate,Tunicate,Tunicate,Pel. Gel. Filter Feeder,Oth.nonfish
+8411010300,Salpa sp. (pelagic salp),Tunicate,Tunicate,Tunicate,Pel. Gel. Filter Feeder,Oth.nonfish
+8413000000,Copelata (larvacea),Larvacea,Larvacea,Larvacea,Pel. Gel. Filter Feeder,Oth.nonfish
+8413010000,Oikopleuridae,Larvacea,Larvacea,Larvacea,Pel. Gel. Filter Feeder,Oth.nonfish
+8413010100,Oikopleura sp.,Larvacea,Larvacea,Larvacea,Pel. Gel. Filter Feeder,Oth.nonfish
+8413020000,Fritillariidae,Larvacea,Larvacea,Larvacea,Pel. Gel. Filter Feeder,Oth.nonfish
+8599999999,Misc. fish,General_fish,Misc Non-teleost fish,Misc Non-teleost fish,Prickle squish round,Oth.dem.fish
+8603010000,Petromyzontidae (Lampreys) ,Lampreys,Misc Non-teleost fish,Misc Non-teleost fish,Prickle squish round,Oth.dem.fish
+8603010200,Lampetra sp. (lamprey),Lampreys,Misc Non-teleost fish,Misc Non-teleost fish,Prickle squish round,Oth.dem.fish
+8603010201,Arcitc Lamprey Lethenteron camtschaticum,Lampreys,Misc Non-teleost fish,Misc Non-teleost fish,Prickle squish round,Oth.dem.fish
+8603010202,Lampetra ayresi (river lamprey),Lampreys,Misc Non-teleost fish,Misc Non-teleost fish,Prickle squish round,Oth.dem.fish
+8603010211,Lampetra tridentata (Pacific lamprey),Lampreys,Misc Non-teleost fish,Misc Non-teleost fish,Prickle squish round,Oth.dem.fish
+8606010100,Eptatretus sp.,Hagfish,Misc Non-teleost fish,Misc Non-teleost fish,Prickle squish round,Oth.dem.fish
+8606010102,Eptatretus stouti (Pacific hagfish),Hagfish,Misc Non-teleost fish,Misc Non-teleost fish,Prickle squish round,Oth.dem.fish
+8700000000,Gnathostomata,General_fish,Misc Non-teleost fish,Misc Non-teleost fish,Prickle squish round,Oth.dem.fish
+8701000000,Chondrichthyes,General_chond,Misc Non-teleost fish,Misc Non-teleost fish,Gen. Shark Skate,Oth.dem.fish
+8710010101,Somniosus pacificus (Pacific sleeper shark),Sleeper_shark,Misc Non-teleost fish,Misc Non-teleost fish,Sleeper Shark,Oth.dem.fish
+8710010201,Squalus acanthias (spiny dogfish),Dogfish,Misc Non-teleost fish,Misc Non-teleost fish,Dogfish,Oth.dem.fish
+8713040000,Rajidae (skate),General_skate,Rajadae,Rajadae,Unid Rajidae,Oth.dem.fish
+8713040101,Bathyraja abyssicola (Deepsea skate),Deepsea_skate,Rajadae,Rajadae,Deepsea Skate,Oth.dem.fish
+8713040102,Bathyraja aleutica (Aleutian skate),Aleutian_skate,Rajadae,Rajadae,Aleutian Skate,Oth.dem.fish
+8713040103,Bathyraja binoculata (big skate),Big_skate,Rajadae,Rajadae,Big Skate,Oth.dem.fish
+8713040105,Bathyraja interrupta (Bering skate),Bering_skate,Rajadae,Rajadae,Bering Skate,Oth.dem.fish
+8713040107,Bathyraja parmifera (Alaska skate),Alaska_skate,Rajadae,Rajadae,AK Skate,Oth.dem.fish
+8713040108,Raja Rhina (longnose skate),Longnose_skate,Rajadae,Rajadae,Longnose Skate,Oth.dem.fish
+8713040199,Bathyraja panthera (leopard skate),Leopard_skate,Rajadae,Rajadae,Leopard Skate,Oth.dem.fish
+8713040800,Bathyraja sp. (skate),General_skate,Rajadae,Rajadae,Unid Bathyraja,Oth.dem.fish
+8713040810,Bathyraja trachura (black skate),black_skate,Rajadae,Rajadae,Black Skate,Oth.dem.fish
+8713040895,Bathyraja violacea (Okhotsk skate),Okhostk_skate,NA,NA,Okhotsk Skate,Oth.dem.fish
+8713040896,Bathyraja lindbergi (commander skate),commander_skate,Rajadae,Rajadae,Commander Skate,Oth.dem.fish
+8713040897,Bathyraja minispinosa (whitebrow skate),whitebrow_skate,NA,NA,Whitebrow Skate,Oth.dem.fish
+8713040898,Bathyraja tarantetzi (mud skate),mud_skate,Rajadae,Rajadae,Mud Skate,Oth.dem.fish
+8713040899,Bathyraja maculata (white blotched skate),wblotched_skate,Rajadae,Rajadae,WhtBlotch Skate,Oth.dem.fish
+8716020101,Hydrolagus colliei (ratfish),Ratfish,Misc Non-teleost fish,Misc Non-teleost fish,Ratfish,Oth.dem.fish
+8717000000,Osteichthyes,General_fish,Misc Non-teleost fish,Misc Non-teleost fish,Gen. Fish,Forage.fish
+8730000000,Holostei (fish),General_fish,Misc Non-teleost fish,Misc Non-teleost fish,Gen. Fish,Forage.fish
+8735000000,Teleostei (fish),General_fish,Misc Teleost,Misc Teleost,Gen. Fish,Forage.fish
+8735000009,Scavenged fish (not an NODC code- J. Drazen),NA,Misc Teleost,Misc Teleost,Gen. Fish,Forage.fish
+8735010000,Non-gadoid fish remains,General_fish,Misc Teleost,Misc Teleost,Gen. Fish,Forage.fish
+8735020000,Fish eggs,General_fish,Fish Eggs,Fish Eggs,Fish Eggs,Oth.nonfish
+8741200102,Avocettina infans (Blackline snipe eel),Snipe_eel,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8741210000,Nemichthyidae (snipe eel),Snipe_eel,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8741210102,Avocettina infans (Blackline snipe eel),Snipe_eel,NA,NA,Prickle squish round,Oth.dem.fish
+8747000000,Clupeoidei,General_Clupeids,Clupeoidei,Clupeoidei,Gen. Clupeids,Forage.fish
+8747010000,Clupeidae,General_Clupeids,Clupeoidei,Clupeoidei,Gen. Clupeids,Forage.fish
+8747010101,Alosa sapidissima (American shad),Shad,Clupeoidei,Clupeoidei,Prickle squish round,Oth.dem.fish
+8747010201,Clupea pallasi (Pacific herring),Herring,Clupeoidei,Clupeoidei,Herring,Forage.fish
+8747010301,Sardinops sagax (Pacific sardine),Sardine,Clupeoidei,Clupeoidei,Prickle squish round,Oth.dem.fish
+8747020101,Engraulis mordax (northern anchovy),Anchovy,Clupeoidei,Clupeoidei,Prickle squish round,Oth.dem.fish
+8754000000,Salmoniformes,General_salmon,Salmonidae,Salmonidae,Gen. Salmoniformes,Forage.fish
+8755010000,"Salmonidae (salmon, whitefish)",General_salmon,Salmonidae,Salmonidae,Salmon,Forage.fish
+8755010100,Coregonus (salmonidae),General_salmon,Salmonidae,Salmonidae,Salmon,Forage.fish
+8755010200,Oncorhynchus sp. (salmon),General_salmon,Salmonidae,Salmonidae,Salmon,Forage.fish
+8755010201,Oncorhynchus gorbuscha (pink salmon),pink_salmon,Salmonidae,Salmonidae,Salmon,Forage.fish
+8755010202,Oncorhynchus keta (chum salmon),chum_salmon,Salmonidae,Salmonidae,Salmon,Forage.fish
+8755010203,Oncorhynchus kisutch (coho salmon),coho_salmon,Salmonidae,Salmonidae,Salmon,Forage.fish
+8755010205,Oncorhynchus nerka (sockeye salmon),sockeye_salmon,Salmonidae,Salmonidae,Salmon,Forage.fish
+8755010206,Oncorhynchus tshawytscha (chinook salmon),chinook_salmon,Salmonidae,Salmonidae,Salmon,Forage.fish
+8755010302,Oncorhynchus mykiss (steelhead),steelhead,Salmonidae,Salmonidae,Salmon,Forage.fish
+8755010401,Salvelinus malma Dolly Varden,dolly_varden,Salmonidae,Salmonidae,Salmon,Forage.fish
+8755030000,Osmeridae (smelts),General_smelts,Osmerid,Osmerid,Gen. Smelt,Forage.fish
+8755030101,Hypomesus pretiosus (surf smelt),Misc_smelt,Osmerid,Osmerid,Oth pel. smelt,Forage.fish
+8755030201,Mallotus villosus (capelin),Capelin,Osmerid,Osmerid,Capelin,Forage.fish
+8755030302,Osmerus mordax (rainbow smelt),Rainbow_smelt,Osmerid,Osmerid,Oth pel. Smelt,Forage.fish
+8755030402,Spirinchus thaleichthys (Longfin smelt),Misc_smelt,Osmerid,Osmerid,Oth pel. Smelt,Forage.fish
+8755030501,Thaleichthys pacificus (eulachon),Eulachon,Osmerid,Osmerid,Eulachon,Forage.fish
+8755030601,Allosmerus elongatus (whitebait smelt),Misc_smelt,Osmerid,Osmerid,Oth pel. smelt,Forage.fish
+8756010000,Argentinidae (argentines),Argentines,Osmerid,Osmerid,Oth pel. smelt,Forage.fish
+8756010101,Nansenia candida (bluethroat argentine),Argentines,Osmerid,Osmerid,Oth pel. smelt,Forage.fish
+8756010206,Argentina sialis (Pacific argentine),Argentines,Osmerid,Osmerid,Oth pel. smelt,Forage.fish
+8756020000,Bathylagidae (deepsea smelts),Bathylagidae,Bathylagid,Bathylagid,Bathylagidae,Forage.fish
+8756020100,Bathylagus sp.,Bathylagidae,Bathylagid,Bathylagid,Bathylagidae,Forage.fish
+8756020103,Pseudobathylagus milleri (stout blacksmelt),Bathylagidae,Bathylagid,Bathylagid,Bathylagidae,Forage.fish
+8756020104,Bathylagus ochotensis (eared blacksmelt),Bathylagidae,Bathylagid,Bathylagid,Bathylagidae,Forage.fish
+8756020105,Bathylagus pacificus (slender blacksmelt),Bathylagidae,Bathylagid,Bathylagid,Bathylagidae,Forage.fish
+8756020300,Leuroglossus sp. (smooth tongues),Bathylagidae,Bathylagid,Bathylagid,Bathylagidae,Forage.fish
+8756020301,Leuroglossus stilbius (California smoothtongue),Bathylagidae,Bathylagid,Bathylagid,Bathylagidae,Forage.fish
+8756020302,Leuroglossus schmidti (northern smoothtongue),Bathylagidae,Bathylagid,Bathylagid,Bathylagidae,Forage.fish
+8756030101,Macropinna microstoma (Barreleye),Barreleye,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8759000000,Stomioidei (stomiatoids),Stomiiformes,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8759010000,Gonostomatidae (bristlemouth or anglemouth),Stomiiformes,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8759010100,Cyclothone sp. (light fish),Stomiiformes,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8759010101,Cyclothone atraria (black bristlemouth),Stomiiformes,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8759010106,Cyclothone microdon (veiled angelmouth),Stomiiformes,NA,NA,Prickle squish deep,Oth.dem.fish
+8759010404,Sigmops gracilis,Stomiiformes,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8759020103,Argyropelecus affinis (Pacific hatchetfish),Stomiiformes,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8759040101,Aristostomias scintillans (Shining loosejaw),Stomiiformes,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8759040301,Tactostoma macropus (longfin dragonfish),Stomiiformes,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8759060000,Chauliodontidae (viperfishes),Stomiiformes,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8759060101,Chauliodus macouni (Pacific viperfish),Stomiiformes,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8759080100,Idiacanthus sp. (black dragonfish),Stomiiformes,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8760010000,Alepocephalidae ,Misc_deepfish,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8760010101,Sagamichthys abei (shining tubeshoulder),Misc_deepfish,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8760010300,Alepocephalus sp. (slickhead),Misc_deepfish,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8760011102,Talismania bifurcata (threadfin slickback),Misc_deepfish,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8760700000,Paralepididae (barracudina),Misc_deepfish,NA,NA,Prickle squish deep,Oth.dem.fish
+8762070000,Paralepididae (barracudina),Misc_deepfish,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8762070101,Lestidiops ringens (Slender barracudina),Misc_deepfish,NA,NA,Prickle squish round,Oth.dem.fish
+8762070399,Lestidiops ringens (baracudina),Misc_deepfish,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8762090102,Alepisaurus ferox (longnose lancetfish),Misc_deepfish,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8762100101,Anotopterus pharao (daggertooth),Misc_deepfish,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8762120101,Benthalbella dentata (northern pearl eye),Misc_deepfish,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8762130101,Scopelosaurus adleri (Waryfish),Misc_deepfish,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8762130104,Scopelosaurus harryi (waryfish),Misc_deepfish,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8762140000,Myctophidae (lanternfish),Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762140200,Myctohpidae (lanternfish) Diaphus sp.,Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762140201,Diaphus theta (California headlightfish),Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762140300,Lampanyctus sp. (lampfish),Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762140301,Lampanyctus jordani (broken line myctophid),Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762140302,Nannobrachium regale (pinpoint lanternfish),Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762140319,Lampanyctus tenuiformes (lantern fish),Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762140500,Stenobrachius sp. (lampfish),Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762140501,Stenobrachius leucopsarus (northern lampfish),Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762140502,Stenobranchius nannochir (garnet myctophid),Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762140601,Symbolophorus californiense (bigfin lanterfish),Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762140701,Tarletonbeania crenularis (blue laternfish),Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762141000,Protomyctophum sp. (lampfish).,Myctophidae,Myctophidae,Myctophidae,Myctophidae,Forage.fish
+8762141002,Protomyctophum thompsoni (bigeye lanternfish),Myctophidae,Misc Teleost,Misc Teleost,Myctophidae,Forage.fish
+8769010000,Gonastomatidae,Gonastomatidae,NA,NA,Prickle squish round,Oth.dem.fish
+8788040000,dreamer Oneirodidae,Oneirodidae,NA,NA,Prickle squish round,Oth.dem.fish
+8788040200,Dreamer Oneirodes sp.,Oneirodidae,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8788040202,Oneirodes bulbosus (bulbus dreamer),Oneirodidae,NA,NA,Prickle squish round,Oth.dem.fish
+8788040204,Oneirodes thompsoni (Alaska dreamer),Oneirodidae,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8791010102,Antimora microlepis (Pacific flatnose),Flatnose,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8791030000,Gadidae (gadid fish),General_gadid,Misc Gadidae,Misc Gadidae,Gen. Gadid,Forage.fish
+8791030201,Boreogadus saida (Arctic cod),Arctic_cod,Misc Gadidae,Misc Gadidae,Prickle squish round,Forage.fish
+8791030301,Eleginus gracilis (saffron cod),Saffron_cod,Misc Gadidae,Misc Gadidae,Prickle squish round,Forage.fish
+8791030401,Gadus macrocephalus (Pacific cod),Pacific_cod,Pacific Cod,Pacific Cod,P. Cod,Oth.dem.fish
+8791030601,Microgadus proximus (Pacific tomcod),Tomcod,Misc Gadidae,Misc Gadidae,Prickle squish round,Oth.dem.fish
+8791030701,Gadus chalcogrammus (walleye pollock),Walleye_pollock,Walleye pollock,Walleye pollock,W. Pollock,W.pollock
+8791030702,G. chalcogrammus eggs (pollock eggs),Walleye_pollock,Fish Eggs,Fish Eggs,Fish Eggs,Oth.nonfish
+8791040102,Merluccius productus (Pacifc hake),Hake,Misc Gadidae,Misc Gadidae,Hake,Oth.dem.fish
+8793000000,Zoacoiidei ,General_eelpouts,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010000,Zoarcidae (eelpout),General_eelpouts,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010101,Lycodes cortezianus (bigfin eelpout),Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010201,Bothrocara brunneum (fat twoline eelpout),Twoline_eelpouts,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010250,Bothrocara spp. (two-line eelpouts (fat and skinny)),Twoline_eelpouts,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010299,Bothrocara zestum (skinny twoline eelpout),Twoline_eelpouts,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010301,Lycenchelys crotalinus (snakehead eelpoout),Misc_eelpout,NA,NA,Eelpout,Eelpout
+8793010400,Gymnelis sp. (eelpout),Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010402,Gymnelus hemifasciatus (halfbarred pout),Misc_eelpout,NA,NA,Eelpout,Eelpout
+8793010403,Gymnelis viridis (fish doctor),Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010404,Gymnelis rotordorsalis (aurora eelpout),Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010405,Gymnelis popovi (Aleutian pout),Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010500,Lycenchelys sp. (eelpout),Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010504,Lycenchelys jordani (shortjaw eelpout),Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010507,manypore eelpout Lycenchelys ratmanovi,Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010600,Lycodapus sp. (eelpout),General_eelpouts,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010602,Lycodapus fierasfer (black mouth eelpout),Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010690,Lycodapus leptus (slender eelpout),Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010699,Lycodapus peocilus (variform eelpout),Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010700,Lycodes sp. (eelpout unid),General_eelpouts,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010703,Lycodes brevipes (shortfin eelpout),Shortfin_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010705,Lycodes concolor (ebony eelpout),Ebony_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010706,Lycodes diapterus (black eelpout),Black_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010709,Lycodes mucosus (saddled eelpout),Misc_eelpout,NA,NA,Eelpout,Eelpout
+8793010710,Lycodes palearis (wattled eelpout),Wattled_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010711,Canadian eelpout Lycodes polaris,Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010712,Lycodes raridens (marbled eelpout),Marbled_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8793010714,Lycodes turneri (polar eelpout),Polar_eelpout,NA,NA,Eelpout,Eelpout
+8793010723,Lycodes rossi (threespot eelpout),Misc_eelpout,NA,NA,Eelpout,Eelpout
+8793010801,Lycodopsis pacifica (blackbelly eelpout),Misc_eelpout,Zoarcoidae,Zoarcoidae,Eelpout,Eelpout
+8794010000,Macrouridae (rattail),Macrouridae,Macrouridae,Macrouridae,Macrouridae,Oth.dem.fish
+8794010100,Coryphaenoides sp. (rattail),Macrouridae,Macrouridae,Macrouridae,Macrouridae,Oth.dem.fish
+8794010101,Coryphaenoides acrolepis (Pacific rattail),Macrouridae,Macrouridae,Macrouridae,Pacific Grenadier,Oth.dem.fish
+8794010105,Coryphaenoides cinereus (popeye grenadier),Macrouridae,Macrouridae,Macrouridae,Macrouridae,Oth.dem.fish
+8794010106,Coryphaenoides filifer (rattail),Macrouridae,Macrouridae,Macrouridae,Macrouridae,Oth.dem.fish
+8794010108,Albatrosia pectoralis (giant grenadier),Macrouridae,Macrouridae,Macrouridae,Giant Grenadier,Oth.dem.fish
+8794010807,Nezumia stelgidolepis,Macrouridae,Macrouridae,Macrouridae,Macrouridae,Oth.dem.fish
+8794010811,Nezumia liolepis,Macrouridae,Macrouridae,Macrouridae,Macrouridae,Oth.dem.fish
+8800000000,Gnathostomata,General_fish,Misc Teleost,Misc Teleost,Gen. Fish,Forage.fish
+8803030000,Scomberesocidae (sauries),Saury,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8803030101,Cololabis saira (Pacific saury),Saury,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8808020000,Melamphaedae (melamphids),Melamphaedae,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8808020101,Melamphaes lugubris (highsnout bigscale),Melamphaedae,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8808020201,Crested Bigscale Poromitra crassiceps,Melamphaedae,NA,NA,Prickle squish deep,Oth.dem.fish
+8808020205,Poromitra curilensis (Bigscale),Melamphaedae,Misc Teleost,Misc Teleost,Prickle squish deep,Oth.dem.fish
+8818010000,Stickleback Gasterosteidae,Sticklebacks,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8818010101,Gasterosteus aculeatus (3-spined stickleback),Sticklebacks,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8818010201,Pungitius pungitius (ninespine stickleback),Sticklebacks,NA,NA,Prickle squish round,Oth.dem.fish
+8825000000,Scorpaeniformes (rockfish and cottid),General_fish,Misc Teleost,Misc Teleost,Gen. Rocks et al,Rockfish
+8826000000,Scorpaeniformes Scorpaenoidei (rockfish),General_rockfish,Misc Teleost,Misc Teleost,Gen. Rockfish,Rockfish
+8826010000,Scorpaenidae,General_rockfish,Unid Rockfish,Unid Rockfish,Gen. Rockfish,Rockfish
+8826010100,Sebastes sp. (rockfish),General_rockfish,Sebastes,Sebastes,Gen. Sebastes,Rockfish
+8826010101,Sebastes aleutianus (rougheye rockfish),rougheye_rockfish,Sebastes,Sebastes,Rougheye Rock,Rockfish
+8826010102,Sebastes alutus (Pacific ocean perch),POP,Sebastes,Sebastes,POP,Rockfish
+8826010104,Sebastes aurora (aurora rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010105,Sebastes babcocki (redbanded rockfish),redbanded_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010106,Sebastes brevispinis (silvergray rockfish),silvergray_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010107,Sebastes borealis (shortraker rockfish),shortraker_rockfish,Sebastes,Sebastes,Shortraker Rock,Rockfish
+8826010109,Sebastes ciliatus (dark rockfish),darkblotched_rockfish,Sebastes,Sebastes,Dusky Rock,Rockfish
+8826010110,Sebastes crameri (darkblotched rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010111,Sebastes diploproa (splitnose rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010112,Sebastes elongatus (greenstriped rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010114,Sebastes entomelas (widow rockfish),Misc_rockfish,Sebastes,Sebastes,Widow Rock,Rockfish
+8826010115,Sebastes flavidus (yellowtail rockfish),Misc_rockfish,Sebastes,Sebastes,Yellowtail Rock,Rockfish
+8826010116,Sebastes glaucus (gray rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010117,Sebastes goodei (chilipepper rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010118,Sebastes helvomaculatus (rosethorn rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010119,Sebastes jordani (shortbelly rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010120,Sebastes maliger (quillback rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010121,Sebastes melanops (black rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010124,Sebastes mystinus (blue rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010127,Sebastes paucispinis (bocaccio),Misc_rockfish,Sebastes,Sebastes,Bocaccio,Rockfish
+8826010128,Sebastes pinniger (canary rockfish),Misc_rockfish,Sebastes,Sebastes,Canary Rock,Rockfish
+8826010129,Sebastes polyspinis (northern rockfish),Northern_rockfish,Sebastes,Sebastes,Northern Rock,Rockfish
+8826010130,Sebastes proriger (redstripe rockfish),redstripe_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010134,Sebastes ruberrimus (yelloweye rockfish),yelloweye_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010135,Sebastes saxicola (stripetail rockfish),Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010136,Sebastes variegatus (harlequin rockfish),harlequin_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010137,pygmy rockfish Sebastes wilsoni,Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010138,Sebastes zacentrus (sharpchin rockfish),Sharpchin_rockfish,Sebastes,Sebastes,Sharpchin Rock,Rockfish
+8826010143,Sebastes chlorostictus,Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010190,Dusky/ dark rockfish Sebastes variabilis/ ciliatus,Misc_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010197,Sebastes melanostictus (black spotted rockfish),blackspotted_rockfish,NA,NA,Sebastes,Rockfish
+8826010198,Sebastes variabilis (dusky rockfish),dusky_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010199,Sebastes alutus complex (pop complex),General_rockfish,Sebastes,Sebastes,Sebastes,Rockfish
+8826010200,Sebastolobus sp. (unidentified thornyhead),Thornyheads,Sebastelobus,Sebastelobus,Gen Thorny,Rockfish
+8826010201,Sebastolobus alascanus (shortspine thornyhead),Thornyheads,Sebastelobus,Sebastelobus,Shortsp Thorny,Rockfish
+8826010202,Sebastolobus altivelis (longspine thornyhead),Thornyheads,Sebastelobus,Sebastelobus,Longsp Thorny,Rockfish
+8826010203,Sebastolobus macrochir (bighand thornyhead),Thornyheads,Sebastelobus,Sebastelobus,Bighand Thorny,Rockfish
+8827010000,Hexagrammidae (greenling),General_greenling,Misc Hexagrammidae,Misc Hexagrammidae,Gen. Hexagrammidae,Oth.dem.fish
+8827010101,Hexagrammos decagrammus (kelp greenling),Kelp_greenling,Misc Hexagrammidae,Misc Hexagrammidae,Greenlings,Oth.dem.fish
+8827010102,Hexagrammos lagocephalus (rock greenling),Rock_greenling,Misc Hexagrammidae,Misc Hexagrammidae,Greenlings,Oth.dem.fish
+8827010103,Hexagrammos octogrammus (masked greenling),Masked_greenling,Misc Hexagrammidae,Misc Hexagrammidae,Greenlings,Oth.dem.fish
+8827010104,Hexagrammos stelleri (white-spotted greenling),Wspotted_greenling,Misc Hexagrammidae,Misc Hexagrammidae,Greenlings,Oth.dem.fish
+8827010201,Ophiodon elongatus (lingcod),Lingcod,Misc Hexagrammidae,Misc Hexagrammidae,Lingcod,Oth.dem.fish
+8827010501,Pleurogrammus monopterygius (Atka mackerel),Atka_mackerel,Atka Mackeral,Atka Mackeral,Atka,Oth.dem.fish
+8827010502,Pleurogrammus monopterygius (eggs),Atka_mackerel,Fish Eggs,Fish Eggs,Fish Eggs,Oth.nonfish
+8827020101,Anoplopoma fimbria (sablefish),Sablefish,Sablefish,Sablefish,Sablefish,Oth.dem.fish
+8831000000,Cottoidei (sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831010000,Icelidae (sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831010100,Icelus sp. (sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831010102,Icelus canaliculatus (sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831010105,Icelus spatula (spatulate sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831010106,Icelus spiniger (thorny sculpin),Thorny_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831010107,Icelus uncinalis (uncinate sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831020000,Cottidae (sculpin),General_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831020100,Archaulus sp. Cottidae (sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831020300,Artediellus sp. (sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831020304,Artediellus pacificus (Pacific hookear sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831020305,Artediellus scaber hamecon,Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831020306,Artediellus uncinatus (Arctic hookear sculpin),Misc_sculpin,NA,NA,Sculpin,Oth.dem.fish
+8831020399,Bolinia euryptera (broadfin sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831020400,Artedius sp. (Irish lord),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831020404,Artedius meanyi ((Puget Sound sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831020601,Blepsias bilobus (crested sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831020602,Blepsias cirrhosus (silverspotted sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831020901,Dasycottus setiger (spinyhead sculpin),spinyhead_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021000,Cottoidei (sculpin) Enophrys sp.,Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021002,Antlered sculpin Enophrys diceraus,Antlered_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021003,Enophrys lucasi (Leister sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021300,Gymnocanthus (sculpin),Gymnocanthus_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021302,Gymnocanthus galeatus (sculpin),Gymnocanthus_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021303,Gymnocanthus pistilliger (threaded sculpin),Gymnocanthus_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021304,Arctic staghorn sculpin Gymnocanthus tricuspis,Arctic_staghorn_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021400,Hemilepidotus sp. (sculpin),General_Hemilepidotus,Cottid,Cottid,Lg Sculpin,Oth.dem.fish
+8831021402,Hemilepidotus hemilepidotus (red Irish lord),red_Irish_lord,Cottid,Cottid,Lg Sculpin,Oth.dem.fish
+8831021403,Hemilepidotus jordani (yellow Irish lord),yellow_Irish_lord,Cottid,Cottid,Lg Sculpin,Oth.dem.fish
+8831021404,Hemilepidotus papilio (butterfly sculpin),butterfly_sculpin,Cottid,Cottid,Lg Sculpin,Oth.dem.fish
+8831021406,Hemilepidotus zapus (longfin irish lord),longfin_Irish_lord,Cottid,Cottid,Lg Sculpin,Oth.dem.fish
+8831021502,Hemitripterus bolini (bigmouth sculpin),bigmout_sculpin,Cottid,Cottid,Lg Sculpin,Oth.dem.fish
+8831021600,Icelinus sp.,Icelinus_scuplin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021601,Icelinus borealis (Northern Sculpin),Icelinus_scuplin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021603,Icelinus filamentosus (threadfin sculpin),Icelinus_scuplin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021801,Leptocottus armatus (Pacific staghorn sculpin),Pac_staghorn_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021900,Cottoidei (sculpin) Malacocottus sp.,Malacocottus_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021901,Malacocottus kincaidi (blackfin sculpin),Malacocottus_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831021902,Malacocottus zonurus (darkfin sculpin),Malacocottus_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831022001,Megalocottus paltycephalus (belligerent sculpin),Misc_sculpin,NA,NA,Sculpin,Oth.dem.fish
+8831022200,Myoxocephalus sp. (sculpin),General_Myox_sculpin,Cottid,Cottid,Lg Sculpin,Oth.dem.fish
+8831022201,Myoxocephalus jaok (plain sculpin),Plain_sculpin,Cottid,Cottid,Lg Sculpin,Oth.dem.fish
+8831022204,Myoxocephalus polyacanthocephalus (great sculpin),Great_sculpin,Cottid,Cottid,Lg Sculpin,Oth.dem.fish
+8831022205,Myoxocephalus quadricornis (fourhorn sculpin),Fourhorn_sculpin,NA,NA,Lg Sculpin,Oth.dem.fish
+8831022207,Shorthorn sculpin Myoxocephalus scorpius,Shortfin_sculpin,Cottid,Cottid,Lg Sculpin,Oth.dem.fish
+8831022211,Myoxocephalus verrucosus (warty sculpin),Warty_sculpin,Cottid,Cottid,Lg Sculpin,Oth.dem.fish
+8831022301,Nautichthys oculofasciatus (sailfin sculpin),Sailfin_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831022302,Nautichthys pribilovius (eyeshade sculpin),Misc_sculpin,NA,NA,Sculpin,Oth.dem.fish
+8831022501,Thornback sculpin Paricelinus hopliticus,Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831022700,Porocottus sp. (fringed sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831022704,Microcottus sellaris (brightbelly sculpin),Misc_sculpin,NA,NA,Sculpin,Oth.dem.fish
+8831022900,Radulinus sp. (Cottidae),Misc_sculpin,NA,NA,Sculpin,Oth.dem.fish
+8831022901,Radulinus asprellus (Slim Sculpin),Misc_sculpin,NA,NA,Sculpin,Oth.dem.fish
+8831023001,Rhamphocottus richardsoni (grunt sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831023701,Thyriscus anoplus (sponge sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831023800,Triglops sp. (sculpin),Triglops_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831023801,Triglops forficata (scissortail sculpin),Triglops_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831023803,Triglops macellus (roughspine sculpin),Triglops_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831023805,Triglops pingeli (ribbed sculpin),Triglops_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831023806,Triglops scepticus (spectacled sculpin),Triglops_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831023895,Triglops xenostethus (scalebreasted sculpin),Triglops_sculpin,NA,NA,Sculpin,Oth.dem.fish
+8831026001,Trichocottus brashnikoviki (hairhead sculpin),Misc_sculpin,NA,NA,Sculpin,Oth.dem.fish
+8831070000,Psychrolutidae (sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831070101,Psychrolutes paradoxus (tadpole sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831070102,blob sculpin Psychrolutes phrictus,Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831070201,Eurymen gyrinus (smoothcheek sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831070401,Rastrinus scutiger (roughskin sculpin),Misc_sculpin,Cottid,Cottid,Sculpin,Oth.dem.fish
+8831080000,Agonidae (poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080101,Agonopsis vulsa (northern spearnose poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080201,Anoplagonus inermis (smooth alligatorfish),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080301,Aspidophoroides bartoni (Aleutian alligatorfish),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080303,Ulcina olrikii (Arctic alligatorfish),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080400,Asterotheca sp. (poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080401,Asterotheca alascana (gray starsnout),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080402,Spinycheek Starsnout Bathyagonus infraspinatus,Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080403,Asterotheca pentacanthus (bigeye poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080501,Bathyagonus nigripinnis,Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080503,Bathyagonus alascanus (gray starsnout),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080701,Hypsagonus quadricornis (4-horn poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080800,Agonidae (poacher) Podothecus sp.,Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080802,Podothecus acipenserinus (sturgeon poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080804,vetern poacher Podothecus veternus,Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080899,Podothecus veternus (veteran poacher),Poachers,NA,NA,Prickle squish round,Oth.dem.fish
+8831080901,Occella dodecaedron (Bering poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831080903,Occella verrucosa (warty poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831081001,Odontopyxis trispinosa (pygmy poacher),Poachers,NA,NA,Prickle squish round,Oth.dem.fish
+8831081101,Pallasina barbata (tubenose poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831081201,Sarritor frenatus (sawback poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831081202,Sarritor leptorhyncus (longnose poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831081300,Xeneretmus sp. (poacher),Poachers,Agonidae,Agonidae,Prickle squish round,Oth.dem.fish
+8831090000,Cyclopteridae (snailfish),Lumpsuckers,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090101,Aptocyclus ventricosus (smooth lumpsucker),Lumpsuckers,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090200,Careproctus sp. (snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090207,Alaska Snailfish Careproctus colletti,Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090209,Careproctus cypselurus (blackfinned redsnail),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090212,Careproctus gilberti (small disc snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090215,blacktail snailfish Careproctus melanurus,Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090224,Careproctus rastrinus (salmon snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090229,Careproctus simus (snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090301,Crystallichtys cyclopilus (Blotched snailfish ),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090403,Toad Lumpsucker Eumicrotremus phrynoides,Lumpsuckers,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090500,Eumicrotremus sp. (lumpsuckers),Lumpsuckers,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090501,Eumicrotremus andriashevi  (pimpled lumpsucker),Lumpsuckers,NA,NA,Prickle squish round,Oth.dem.fish
+8831090506,Eumicrotremus orbis (Pacific spiny lumpsucker),Lumpsuckers,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090701,Lethotremus muticus (docked snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090800,Liparis sp. (snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090808,Liparis dennyi (marbled snailfish),Snailfish,NA,NA,Prickle squish round,Oth.dem.fish
+8831090811,Liparis fucensis (slipskin snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090812,Liparis gibbus (snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090815,Liparis fabricii (gelatinous snailfish),Snailfish,NA,NA,Prickle squish round,Oth.dem.fish
+8831090817,Liparis marmoratus (festive snailfish),Snailfish,NA,NA,Prickle squish round,Oth.dem.fish
+8831090829,kelp snailfish Liparis tunicatus,Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831090888,Liparidae (snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831091001,Nectoliparis pelagicus (tadpole snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831091100,Paraliparis sp. (snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831091102,Elassodiscus caudatus (humpback snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8831099900,Allocareproctus sp. (snailfish),Snailfish,Cyclopteridae,Cyclopteridae,Prickle squish round,Oth.dem.fish
+8835280101,Trachurus symmetricus (jack mackerel),Misc_Teleost,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8835440201,Genyonemus lineatus,Misc_Teleost,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8835600201,Cymatogaster aggregata (shiner perch),Misc_Teleost,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8835601101,Zalembius rosaceus (pink surfperch),Misc_Teleost,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8840010201,Trichodon trichodon (Pacific sandfish),Pacific_sandfish,Pacific sandfish,Pacific sandfish,Managed Forage,Forage.fish
+8840030000,Bathymasteridae (ronquils),Bathymasteridae,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8840030100,Bathymaster sp. (searcher),Bathymasteridae,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8840030103,Bathymaster signatus (searcher),Bathymasteridae,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8840030201,Ronquilus jordani (northern ronquil),Bathymasteridae,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8840160100,Chiasmodon sp. (swallower),Swallower,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8842020000,Anarhichadidae (wolffishes),Wolffish,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8842020101,Anarhichas orientalis (Bering wolffish),Wolffish,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8842110101,Ptilichthys goodei (quillfish),Quillfish,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8842120000,Stichaeidae (prickleback),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120101,Acantholumpenus mackayi (pighead prickleback),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120201,Alectridium aurantiacum (lesser prickleback),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120301,Allolumpenus hypochromus (y-prickleback),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120400,Anoplarchus sp. (cockscomb),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120401,Slender cockscomb Anoplarchus insignis,Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120500,warbonnet Chirolophis sp.,Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120504,Chirolophis snyderi (bearded warbonnet),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120601,Bryozoichthys lysimus (nutcracker prickleback),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120801,Lumpenella longirostris (longsnout prickleback),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120900,Lumpenus sp. (prickleback),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120901,Lumpenus fabricii (slender eelblenny),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120902,Lumpenus sagitta (snake prickleback),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120903,Lumpenus maculatus (daubed shanny),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842120904,Lumpenus medius (stout eelblenny),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842121200,Poroclinus sp. (prickleback),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842121201,Poroclinus rothrocki (whitebarred pricklback),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842121301,Arctic shanny Stichaeus punctatus,Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842121600,Cryptacanthodidae (wrymouth),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842121601,Cryptacanthodes aleutensis (dwarf wrymouth),Stichaeidae,Stichaeidae,Stichaeidae,Managed Forage,Forage.fish
+8842121701,Eumesogrammus praecisus (fourline snakeblenny),Stichaeidae,NA,NA,Managed Forage,Forage.fish
+8842122301,Anisarchus medius (stout eelblenny),Stichaeidae,NA,NA,Managed Forage,Forage.fish
+8842130000,Pholidae (gunnel family),Gunnels,Pholidae,Pholidae,Managed Forage,Forage.fish
+8842130200,Pholis sp. (gunnel),Gunnels,Pholidae,Pholidae,Managed Forage,Forage.fish
+8842130201,Pholis clemensi (longfin gunnel),Gunnels,Pholidae,Pholidae,Managed Forage,Forage.fish
+8842130203,Banded Gunnel Pholis fasciata,Gunnels,Pholidae,Pholidae,Managed Forage,Forage.fish
+8842130205,Pholis laeta (Crested gunnel ),Gunnels,Pholidae,Pholidae,Managed Forage,Forage.fish
+8842130206,Pholis ornata (saddleback gunnel),Gunnels,Pholidae,Pholidae,Managed Forage,Forage.fish
+8842150101,Zaprora silenus (prowfish),prowfish,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8843010101,Icosteus aenigmaticus (ragfish),ragfish,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8845010100,Ammodytes sp. (sandlance),Sandlances,Ammodytidae,Ammodytidae,Sandlance,Forage.fish
+8845010101,Ammodytes hexapterus (Pacific sandlance),Sandlances,Ammodytidae,Ammodytidae,Sandlance,Forage.fish
+8845010111,sandlance Ammodytes personatus,Sandlances,Ammodytidae,Ammodytidae,Sandlance,Forage.fish
+8850030301,Scomber japonicus (Pacific mackerel),Misc_fish,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8851010101,Icichthys lockingtoni (medusafish),Misc_fish,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8851030101,Peprilus simillimus (Pacific pampano),Misc_fish,Misc Teleost,Misc Teleost,Prickle squish round,Oth.dem.fish
+8857000000,Pleuronectoidei (flatfish),General_flatfish,Misc Flatfish,Misc Flatfish,Gen. Flatfish,Flatfish
+8857030000,Bothidae (left-eye flounders),General_flatfish,Misc Flatfish,Misc Flatfish,Gen. Flatfish,Flatfish
+8857030100,Citharichthys,General_flatfish,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857030101,Citharichthys sordidus (Pacific sanddab),Pacific_sanddab,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857030309,Paralichthys californicus (California halibut),California_halibut,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857040000,Pleuronectidae (flatfish),General_flatfish,Misc Flatfish,Misc Flatfish,Gen. Flatfish,Flatfish
+8857040100,Atheresthes sp.,General_ATF_Kam,Misc Flatfish,Misc Flatfish,Arrow or Kam,Flatfish
+8857040101,Atheresthes evermanni (Kamchatka flounder),Kamchatka_flounder,Kamchatka flounder,Kamchatka flounder,Kamchat fl,Flatfish
+8857040102,Atheresthes stomias (arrowtooth flounder),arrowtooth_flounder,Arrowtooth flounder,Arrowtooth flounder,Arrowtooth,Flatfish
+8857040301,Embassichthys bathybius (deepsea sole),deepsea_sole,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857040401,Petrale Sole Eopsetta jordani,petrale_sole,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857040501,Errex zachirus (rex sole),rex_sole,Misc Flatfish,Misc Flatfish,Rex sole,Flatfish
+8857040600,Hippoglossoides sp.,General_flatfish,Hippoglossoides spp,Hippoglossoides spp,Gen. Flatfish,Flatfish
+8857040601,Hippoglossoides elassodon (flathead sole),flathead_sole,Flathead sole,Flathead sole,FH Sole,Flatfish
+8857040602,Hippoglossoides robustus (Bering flounder),Bering_flounder,Bering Flounder,Bering Flounder,Misc. Flatfish,Flatfish
+8857040701,Isopsetta isolepis (butter sole),butter_sole,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857040800,Lepidopsetta sp. (rock sole type),General_rock_sole,Lepidopsetta sp,Lepidopsetta sp,Gen Rock Sole,Flatfish
+8857040801,Lepidopsetta bilineatus (southern rock sole),S_rock_sole,Southern rock sole,Southern rock sole,S Rock Sole,Flatfish
+8857040803,Lepidopsetta polyxystra (northern rock sole),N_rock_sole,Northern rock sole,Northern rock sole,N Rock Sole,Flatfish
+8857040900,Limanda sp.,General_flatfish,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857040901,Limanda aspera (yellowfin sole),yellowfin_sole,Yellowfin sole,Yellowfin sole,YF Sole,Flatfish
+8857040902,Limanda proboscideus (longhead dab),longhead_dab,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857040999,Limanda sakhalinensis (Sakalin sole),Sakalin_sole,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857041001,Arctic Flounder Liopsetta glacialis,Arctic_flounder,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857041101,Eopsetta exilis (slender sole),slender_sole,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857041201,Microstomus pacificus (Dover sole),Dover_sole,Misc Flatfish,Misc Flatfish,Dover Sole,Flatfish
+8857041301,Parophrys vetulus (English sole),English_sole,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857041401,Platichthys stellatus (Starry flounder),starry_flounder,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857041501,Pleuronectes quadrituberculatus (Alaska plaice),Alaska_plaice,Alaska plaice,Alaska plaice,AK Plaice,Flatfish
+8857041701,Psettichthys melanostictus (sand sole),sand_sole,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+8857041801,Reinhardtius hippoglossoides (Greenland turbot),Greenland_turbot,Greenland turbot,Greenland turbot,Gr. Turbot,Flatfish
+8857041901,Hippoglossus stenolepis (Pacific halibut),Pacific_halibut,Pacific halibut,Pacific halibut,P. Halibut,Flatfish
+8858020116,Symphurus atricauda (California tonguefish),California_tonguefish,Misc Flatfish,Misc Flatfish,Misc. Flatfish,Flatfish
+9100000000,Aves (bird part),Birds,Misc Bird,Misc Bird,Birds,Oth.nonfish
+9109030200,Dark storm petrels Oceanodroma sp.,Birds,Misc Bird,Misc Bird,Birds,Oth.nonfish
+9112000000,Anseriformes,Birds,Misc Bird,Misc Bird,Birds,Oth.nonfish
+9129010301,Common murre Uria aalge,Birds,Misc Bird,Misc Bird,Birds,Oth.nonfish
+9129011101,Aethia cristatella (crested auklet),Birds,Misc Bird,Misc Bird,Birds,Oth.nonfish
+9129011401,Lunda cirrhata (tufted puffin),Birds,Misc Bird,Misc Bird,Birds,Oth.nonfish
+9200000000,Mammalia,NA,Misc Org,Misc Org,Glopp,Oth.nonfish
+9227020000,Bovidae (cow parts),NA,Misc,Misc,Glopp,Oth.nonfish
+9999990000,Unidentified organic material,NA,Misc Org,Misc Org,Glopp,Oth.nonfish
+9999990001,Marine snow,NA,Misc Org,Misc Org,Glopp,Oth.nonfish
+9999990099,Unidentified Jello,NA,Misc Org,Misc Org,Glopp,Oth.nonfish
+9999999990,Sand,NA,Misc Org,Misc Org,Glopp,Oth.nonfish
+9999999991,Unidentified eggs,NA,Unid Eggs,Unid Eggs,Glopp,Oth.nonfish
+9999999992,Unidentified worm-like organism,NA,Misc Worm,Misc Worm,Glopp,Oth.nonfish
+9999999993,Fishery offal,NA,Offal,Offal,Offal,Discards
+9999999994,Unidentified tube,NA,Misc Org,Misc Org,Glopp,Oth.nonfish
+9999999995,Overboard material (non-fishery),NA,Misc,Misc,Glopp,Oth.nonfish
+9999999996,Wood,NA,Misc Org,Misc Org,Glopp,Oth.nonfish
+9999999997,Unidentified algae,NA,Misc Org,Misc Org,Glopp,Oth.nonfish
+9999999998,Rocks,NA,Misc Org,Misc Org,Glopp,Oth.nonfish
+9999999999,Unidentified material,NA,Misc Org,Misc Org,Glopp,Oth.nonfish

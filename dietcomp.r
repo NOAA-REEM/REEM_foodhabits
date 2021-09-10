@@ -33,6 +33,23 @@ stratblock <- list(
     "NBS"       = c(70,71,81)
   )
 
+stratarea_km <- c(
+"10"	= 78702.64,
+"20"	= 41328.67,
+"31"	= 94983.17,
+"32"	= 8935.52,
+"41"	= 62875.39,
+"42"	= 24242.43,
+"43"	= 21319.87,
+"50"	= 38989.6,
+"61"	= 88753.97,
+"62"	= 6462.79,
+#"70"	= 73353.11,
+"81"	= 35392.93,
+"82"	= 20897.01,
+"90"	= 11542
+)
+
 # Read in lookup and raw data and ensure 10-digit nodc numbers are read as text keys
 preylooktable <- read.csv(pplookfile)
   preylook <- preylooktable[,preylook_col]
@@ -215,5 +232,11 @@ haul_cons <- aggregate(cbind(demand_g_km2_day, Opilio_cons, Bairdi_cons, Unid.Ch
 strat_cons <- aggregate(cbind(demand_g_km2_day, Opilio_cons, Bairdi_cons, Unid.Chion_cons, Pollock_cons, Other_cons, Missing_cons) ~ haul_num+stratum, 
                         data = haul_cons, mean)
 
-write.csv(raw_cpue,"raw_cpue2.csv",row.names=F)
+strat_tons <- strat_cons[,3:9] * stratarea_km[as.character(strat_cons$stratum)]/1e6
+strat_out <- cbind(strat_cons[,1:2],strat_tons)
+names(strat_out) <- c("Year","Stratum","Demand_mt_day","Opilio_mt","Bairdi_mt","Unid.Chion_mt","Pollock_mt","Other_mt","Missing_mt")
+
+write.csv(strat_out,"Pcod_consumption.csv",row.names=F)
+
+write.csv(raw_cpue,"haul_cpue_cons.csv",row.names=F)
 
