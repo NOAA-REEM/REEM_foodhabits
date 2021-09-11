@@ -7,14 +7,14 @@ min_sample   <- 5                               # Minimum sample size
 # List of predator-specific values.  
 preds <- list(
   "W.pollock"  = list(nodc="8791030701", A_L=0.00553096, B_L=3.044172,   LCLASS=c(0,10,25,40,55,999) ),
-  "P.cod"      = list(nodc="8791030401", A_L=0.00411781, B_L=3.25325765, LCLASS=c(0,10,30,60,85,999) ),
+  "P.cod"      = list(nodc="8791030401", A_L=0.00411781, B_L=3.25325765, LCLASS=c(0,5,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100,999) ),
   "Arrowtooth" = list(nodc=c("8857040100", "8857040102"), # ATF includes Atheresthes sp. unid
                                          A_L=0.00443866, B_L=3.19894001, LCLASS=c(0,10,30,50,999) ),
   "P.halibut"  = list(nodc="8857041901", A_L=0.01093251, B_L=3.24,       LCLASS=c(0,10,50,70,999) )
 )
 
 # Predators to calculate (all must be on above list)
-predators <- c("P.cod","P.halibut")
+predators <- c("P.cod")
   
 # Years to output
 yearlist <- 1985:2019
@@ -160,7 +160,8 @@ o_vals$meanper <- exp(o_vals$elog)/(1+exp(o_vals$elog))
 o_vals$lo95per <- exp(o_vals$elog-1.96*o_vals$e_sd)/(1+exp(o_vals$elog-1.96*o_vals$e_sd))
 o_vals$hi95per <- exp(o_vals$elog+1.96*o_vals$e_sd)/(1+exp(o_vals$elog+1.96*o_vals$e_sd))
         
-write.csv(o_vals,"results/out_diets.csv",row.names=F)
+write.csv(o_vals,"results/out_diets_5cm.csv",row.names=F)
+
 
 
 raw_original <- read.csv("data/EBS_Pcod_length_cpue.csv")
