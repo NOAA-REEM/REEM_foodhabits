@@ -14,7 +14,7 @@ preds <- list(
 )
 
 # Predators to calculate (all must be on above list)
-predators <- c("P.cod","P.halibut")
+predators <- c("P.cod") #,"P.halibut")
   
 # Years to output
 yearlist <- 1985:2019
@@ -54,8 +54,9 @@ stratarea_km <- c(
 "50"	= 38989.6,
 "61"	= 88753.97,
 "62"	= 6462.79,
-"70"	= 73353.11,
-"81"	= 35392.93,
+"70"	= 79261,
+"71"  = 82594,
+"81"	= 38352,
 "82"	= 20897.01,
 "90"	= 11542
 )
@@ -160,10 +161,12 @@ o_vals$meanper <- exp(o_vals$elog)/(1+exp(o_vals$elog))
 o_vals$lo95per <- exp(o_vals$elog-1.96*o_vals$e_sd)/(1+exp(o_vals$elog-1.96*o_vals$e_sd))
 o_vals$hi95per <- exp(o_vals$elog+1.96*o_vals$e_sd)/(1+exp(o_vals$elog+1.96*o_vals$e_sd))
         
-write.csv(o_vals,"results/out_diets.csv",row.names=F)
+write.csv(o_vals,"results/out_diets_all.csv",row.names=F)
 
 
 raw_original <- read.csv("data/EBS_Pcod_length_cpue.csv")
+raw_original <- rbind(raw_original,read.csv("data/NBS_Pcod_length_cpue.csv"))
+
 PRED <- "P.cod"
 ThisPred <- preds[[PRED]] 
 preddat <- rawdat[rawdat$PRED_NODC %in% ThisPred$nodc,] 
@@ -242,8 +245,8 @@ raw_cpue$Other_cons <- raw_cpue$Other * raw_cpue$demand_g_km2_day
 raw_cpue$Missing_cons <- raw_cpue$Missing * raw_cpue$demand_g_km2_day
 
 prey <- o_vals[o_vals$sp_prey=="Opilio",]
-write.csv(prey,"results/Opilio_dc.csv",row.names=F)
-write.csv(raw_cpue,"results/haul_cpue_cons.csv",row.names=F)
+write.csv(prey,"results/Opilio_dc_all.csv",row.names=F)
+write.csv(raw_cpue,"results/haul_cpue_cons_all.csv",row.names=F)
 
 
 strat_len_cons <- aggregate(cbind(numcpue_at_len, NtimesW, Cmax_Ncpue, demand_g_km2_day) ~ bigstrat+haul_num+lbin, 
@@ -296,8 +299,10 @@ dietkey <- paste(PRED,strat_len_cons$bigstrat, strat_len_cons$year, strat_len_co
 #strat_len_cons$num_avg <- strat_len_cons$numcpue_at_len/strat_len_cons$scount
 #strat_len_cons$num_extrap <- strat_len_cons$num_avg * strat_len_cons$sarea
 
-write.csv(strat_len_cons,"results/strat_len_cons.csv",row.names=F)
+write.csv(strat_len_cons,"results/strat_len_cons_all.csv",row.names=F)
 
+
+#################################################################
 
 haul_cons <- aggregate(cbind(demand_g_km2_day, Opilio_cons, Bairdi_cons, Unid.Chion_cons, Pollock_cons, Other_cons, Missing_cons) ~ haul_join+haul_num+stratum, 
                        data = raw_cpue, sum)
