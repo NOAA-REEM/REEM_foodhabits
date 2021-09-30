@@ -1,0 +1,126 @@
+NN,GROUP,TL,BB,SS91,QQ,GUILD,Bindex
+57,Other skates,4.425169468,0.092932269,0.131198973,0.708330767,Apex predators,good index
+41,Kamchatka fl.,4.487145424,0.05607,0.069846345,0.802762122,Apex predators,good index
+56,Alaska skate,4.185295582,0.680454373,0.787392539,0.864186971,Apex predators,good index
+73,Greenlings,4.243580341,0.001190085,0.001358816,0.875824513,Benthic foragers,good index
+74,Lg. Sculpins,4.028891563,0.540323079,0.579123267,0.933001849,Apex predators,good index
+51,N. Rock sole,3.653100491,3.2257061,3.42525989,0.941740541,Benthic foragers,good index
+52,AK Plaice,3.509846687,1.068403006,1.091120956,0.979179256,Benthic foragers,good index
+47,YF. Sole,3.542567253,4.833312035,4.877398537,0.990961062,Benthic foragers,good index
+45,P. Halibut,4.562645435,0.221896902,0.205635254,1.079080058,Apex predators,good index
+55,Misc. Flatfish,3.70583272,0.221691862,0.194652208,1.138912646,Benthic foragers,good index
+49,FH. Sole,3.67606616,1.193845987,1.024209625,1.165626604,Benthic foragers,good index
+54,Rex Sole,3.724755287,0.040625561,0.029187239,1.39189463,Benthic foragers,good index
+39,Arrowtooth,4.321147919,0.944342077,0.554406661,1.70333826,Apex predators,good index
+33,W. Pollock,3.681783676,18.48620987,10.17315422,1.817156162,Pelagic foragers,good index
+35,P. Cod,4.104910374,2.46496892,1.096357307,2.248326256,Apex predators,good index
+53,Dover Sole,3.709782362,0.000229773,0.000101011,2.274737451,Benthic foragers,good index
+76,Misc. fish shallow,3.674926043,1.167694449,0.177025914,6.596178055,Pelagic foragers,good index
+37,Herring,3.52392602,0.61155802,0.067040119,9.122269319,Pelagic foragers,good index
+43,Gr. Turbot,4.583570957,0.349304408,0.023431831,14.90726075,Apex predators,good index
+60,Eelpouts,3.577774525,2.371533632,0.087252959,27.1799795,Motile epifauna,good index
+75,Other sculpins,3.878763676,1.136691928,0.024177687,47.01408937,Benthic foragers,good index
+85,Eulachon,3.5224998,0.552082777,0.011363022,48.58591256,Pelagic foragers,good index
+59,Sablefish,4.519145966,0.031446379,0.000607953,51.72498311,Apex predators,good index
+79,Salmon returning,3.827081203,0.163769707,0.001189135,137.7216795,Pelagic foragers,good index
+87,Oth. pelagic smelt,3.5224998,0.498683631,0.0034578,144.2199136,Pelagic foragers,good index
+83,Capelin,3.5224998,1.244671345,0.00377373,329.8252128,Pelagic foragers,good index
+86,Oth. managed forage,3.5224998,1.050980091,0.00246597,426.1933498,Pelagic foragers,good index
+72,Atka mackerel,3.530183315,0.106847301,0.000142617,749.1929684,Pelagic foragers,good index
+1,Transient Killers,4.825993538,0.000135059,#N/A,0,XXApex predators,n/a
+2,Sperm and Beaked Whales,4.724488735,0.017674729,#N/A,0,XXApex predators,n/a
+3,Resident Killers,4.684011936,0.00135018,#N/A,0,XXApex predators,n/a
+4,Porpoises,4.630122185,0.003618792,#N/A,0,XXApex predators,n/a
+5,Belugas,4.594192505,0.01225278,#N/A,0,XXApex predators,n/a
+6,Gray Whales,3.511069298,0.032667201,#N/A,0,XXBenthic foragers,n/a
+7,Humpbacks,3.943032503,0.01209702,#N/A,0,XXPelagic foragers,n/a
+8,Fin Whales,3.731283903,0.454739988,#N/A,0,XXPelagic foragers,n/a
+9,Sei whales,3.665329456,0.006334031,#N/A,0,XXPelagic foragers,n/a
+10,Right whales,3.501749992,0.003554848,#N/A,0,XXPelagic foragers,n/a
+11,Minke whales,4.120175362,0.024038279,#N/A,0,XXApex predators,n/a
+12,Bowhead Whales,3.524302959,0.007173534,#N/A,0,XXPelagic foragers,n/a
+13,Sea Otters,3.738600731,0.000750327,#N/A,0,XXApex predators,n/a
+14,Walrus Bd Seals,3.573738575,0.114248402,#N/A,0,XXBenthic foragers,n/a
+15,N. Fur Seal_Juv,4.58318758,0.000878013,#N/A,0,XXApex predators,n/a
+16,N. Fur Seal,4.58318758,0.03262547,#N/A,0,XXApex predators,n/a
+17,Steller Sea Lion_Juv,4.65362215,2.68E-05,#N/A,0,XXApex predators,n/a
+18,Steller Sea Lion,4.658423424,0.001466855,#N/A,0,XXApex predators,n/a
+19,Resident seals,4.528830051,0.01344924,#N/A,0,XXApex predators,n/a
+20,Wintering seals,4.579491138,0.03029022,#N/A,0,XXApex predators,n/a
+21,Shearwater,4.536387444,0.0004,#N/A,0,XXApex predators,n/a
+22,Murres,4.433144093,0.008142997,#N/A,0,XXApex predators,n/a
+23,Kittiwakes,4.400294781,0.000662705,#N/A,0,XXApex predators,n/a
+24,Auklets,3.570476055,0.001754495,#N/A,0,XXPelagic foragers,n/a
+25,Puffins,4.397296429,0.000474985,#N/A,0,XXApex predators,n/a
+26,Fulmars,4.58780098,0.000520162,#N/A,0,XXApex predators,n/a
+27,Storm Petrels,4.280564785,1.75E-06,#N/A,0,XXApex predators,n/a
+28,Cormorants,4.485171318,0.000149799,#N/A,0,XXApex predators,n/a
+29,Gulls,4.469694614,0.00010491,#N/A,0,XXApex predators,n/a
+30,Albatross Jaeger,4.605689526,1.00E-04,#N/A,0,XXApex predators,n/a
+100,Benthic Amphipods,2.5,12.79599571,0,0,Infauna,n/a
+103,Hydroids,2.525000095,0.236198992,#N/A,0,XXStructural epifauna,n/a
+111,Fish Larvae,2.524999857,0.011669125,0,0,Mesozooplankton,n/a
+112,Chaetognaths,2.906250238,0.704880238,#N/A,0,Mesozooplankton,n/a
+113,Euphausiids,2.524999857,17.83091545,#N/A,0,Mesozooplankton,n/a
+114,Mysids,2.524999857,1.500249028,#N/A,0,Mesozooplankton,n/a
+115,Pelagic Amphipods,2.524999857,1.695003748,#N/A,0,Mesozooplankton,n/a
+116,Gelatinous filter feeders,2.524999857,0.773875952,0,0,Mesozooplankton,n/a
+117,Pteropods,2.524999857,0.231749848,#N/A,0,Mesozooplankton,n/a
+118,Copepods,2.5,26.85725021,#N/A,0,Copepods,n/a
+119,Pelagic microbes,2,45,#N/A,0,Pelagic production,n/a
+120,Benthic microbes,2,22.06093025,#N/A,0,Benthic production,n/a
+121,Macroalgae,1,0.750176311,#N/A,0,Pelagic production,n/a
+122,Lg Phytoplankton,1,4.350328922,#N/A,0,Pelagic production,n/a
+123,Sm Phytoplankton,1,39.50389862,#N/A,0,Pelagic production,n/a
+124,Outside Production,1,4,#N/A,0,NA,n/a
+104,Urochordata,2.525000095,0.354496688,0.376496766,0.941566356,Structural epifauna,n/a
+93,Sea stars,3.529754639,2.471359015,2.592882254,0.953131987,Motile epifauna,n/a
+101,Anemones,2.525000095,0.109520704,0.110326522,0.992696055,Structural epifauna,n/a
+89,King Crab,3.383165598,0.238389403,0.235308119,1.013094676,Motile epifauna,n/a
+102,Corals,2.525000095,0.01316798,0.012456396,1.057126024,Structural epifauna,n/a
+96,Snails,2.904999971,0.807168901,0.646604246,1.248319827,Motile epifauna,n/a
+90,Opilio,3.280631304,2.178832054,1.639118406,1.329270689,Motile epifauna,n/a
+999,Hybrid Chion,3.280631304,2.178832054,1.639118406,1.329270689,Motile epifauna,n/a
+88,Bairdi,3.368986845,0.521853685,0.386715677,1.349450555,Motile epifauna,n/a
+106,Sponges,2.525000095,0.05448509,0.038725119,1.406970243,Structural epifauna,n/a
+97,Hermit crabs,3.131249905,1.773872495,0.930511819,1.906340637,Motile epifauna,n/a
+110,Scyphozoid Jellies,3.428904533,0.337930411,0.149871804,2.254796446,Pelagic foragers,n/a
+98,Misc. crabs,3.131249905,0.710121751,0.103340386,6.871677005,Motile epifauna,n/a
+94,Brittle stars,2.150000095,2.950092793,0.308147099,9.573651029,Motile epifauna,n/a
+77,Octopi ,3.817606211,0.192476004,0.014925329,12.89593015,Motile epifauna,n/a
+105,Sea Pens,2.525000095,0.01341994,0.000885184,15.16062057,Structural epifauna,n/a
+95,Urchins dollars cucumbers,2,1.167417765,0.043207582,27.01881752,Motile epifauna,n/a
+91,Pandalidae,2.907500029,6.742452145,0.014075355,479.0253747,Shrimp,n/a
+108,Polychaetes,2.5,21.68737984,0.006327101,3427.695997,Infauna,n/a
+107,Bivalves,2.525000095,61.87306976,0.005395909,11466.66211,Infauna,n/a
+92,NP shrimp,2.907500029,12.70143509,0.001093507,11615.32217,Shrimp,n/a
+99,Misc. Crustacean,2.5,8.885809898,0.000624276,14233.78164,Infauna,n/a
+109,Misc. worms ,2.5,3.6694839,1.91E-05,192211.3099,Infauna,n/a
+84,Sandlance,3.5224998,2.527657986,6.45E-05,39165.29772,Pelagic foragers,poor index
+32,W. Pollock_Juv,3.546344995,4.492683887,#N/A,0,XXPelagic foragers,poor survey est
+34,P. Cod_Juv,3.620096684,0.185954094,#N/A,0,XXBenthic foragers,poor survey est
+36,Herring_Juv,3.521964073,0.171157703,#N/A,0,XXPelagic foragers,poor survey est
+38,Arrowtooth_Juv,3.976933002,0.00624092,#N/A,0,XXBenthic foragers,poor survey est
+40,Kamchatka fl._Juv,4.127982616,0.000370553,#N/A,0,XXApex predators,poor survey est
+42,Gr. Turbot_Juv,3.538616657,0.007470302,#N/A,0,XXPelagic foragers,poor survey est
+44,P. Halibut_Juv,3.790332556,0.001864732,#N/A,0,XXBenthic foragers,poor survey est
+46,YF. Sole_Juv,3.513369322,0.424662292,#N/A,0,XXBenthic foragers,poor survey est
+48,FH. Sole_Juv,3.549802303,0.147326693,#N/A,0,XXBenthic foragers,poor survey est
+50,N. Rock sole_Juv,3.50488019,0.157305598,#N/A,0,XXBenthic foragers,poor survey est
+58,Sablefish_Juv,3.636665583,0.003844913,#N/A,0,XXPelagic foragers,poor survey est
+61,Grenadiers,4.293328285,0.968098998,#N/A,0,XXApex predators,poor survey est
+71,Atka mackerel_Juv,3.5224998,0.03712653,#N/A,0,XXPelagic foragers,poor survey est
+80,Salmon outgoing,3.512499809,0.014197201,#N/A,0,XXPelagic foragers,poor survey est
+31,Sleeper shark,4.685585022,0.053247299,0,1,Poor Apex predators,poor survey est
+62,Misc. fish deep,4.293328285,0.008094369,0,1,Poor Apex predators,poor survey est
+63,POP,3.548366308,0.1666428,0,1,Poor Pelagic foragers,poor survey est
+64,Sharpchin Rock,3.768889189,0.001528288,#N/A,1,Poor Pelagic foragers,poor survey est
+65,Northern Rock,3.602633238,0.027925313,0,1,Poor Pelagic foragers,poor survey est
+66,Dusky Rock,3.517008305,0.000611554,0.001542334,1,Poor Pelagic foragers,poor survey est
+67,Shortraker Rock,3.86427331,0.009492034,#N/A,1,Poor Benthic foragers,poor survey est
+68,Rougheye Rock,4.296509266,0.003686704,0,1,Poor Pelagic foragers,poor survey est
+69,Shortspine Thorns,3.575534344,0.00461327,#N/A,1,Poor Benthic foragers,poor survey est
+70,Other Sebastes,3.768889189,0.011135655,#N/A,1,Poor Pelagic foragers,poor survey est
+78,Squids,3.679156303,0.926997602,2.24E-05,1,Poor Pelagic foragers,poor survey est
+81,Bathylagidae,3.5224998,0.161643669,#N/A,1,Poor Pelagic foragers,poor survey est
+82,Myctophidae,3.5224998,0.826217771,0,1,Poor Pelagic foragers,poor survey est
