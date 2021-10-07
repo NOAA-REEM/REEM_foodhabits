@@ -19,6 +19,12 @@ setwd("C:/src/REEM_foodhabits")
 # Script below this line can probably can stay the same year to year.
 ################################################################################ 
 
+# Load by-station data from list of rawfiles
+  EBS_RAW  <- NULL
+  for (f in rawfiles){cat(f,"\n"); flush.console(); 
+    EBS_RAW <- rbind(EBS_RAW,read.csv(paste(datdir,f,sep="/")))
+  }
+
 # Read in lookup tables
   # Using RACE codes as primary key, lookup for "Ecopath" species groupings
     race_look  <- read.csv(species_lookup, row.names="RACE")
@@ -26,14 +32,8 @@ setwd("C:/src/REEM_foodhabits")
     q_look     <- read.csv(q_lookup, row.names="GROUP")
   # Using RACE stratum# as primary key, lookup for "domain" definitions and surface area (km^2)
     strat_look <- read.csv(strata_lookup, row.names="Stratum")
-  
-# Load by-station data from list of rawfiles
-  EBS_RAW  <- NULL
-  for (f in rawfiles){cat(f,"\n"); flush.console(); 
-    EBS_RAW <- rbind(EBS_RAW,read.csv(paste(datdir,f,sep="/")))
-  }
 
-# Apply lookup tables to raw data
+# Apply lookup table info to raw data table
   EBS_RAW$ebs_name   <- race_look[as.character(EBS_RAW$SID), "ECOPATH_Name"]
   # Detect if RACE has added any codes to the raw data that need to be put in the RACE lookup
     if (length(EBS_RAW$ebs_name[is.na(EBS_RAW$ebs_name)]) != 0){
@@ -54,37 +54,37 @@ setwd("C:/src/REEM_foodhabits")
 # multiplying by 0.1 to convert CPUE from kg/hectare to t/km^2
   SURV$qq_cpue <- 0.1 * SURV$WTCPUE * SURV$qq  
   
-# List of guilds that have biomass entries in race database
-  #GUILDS     <- unique(SURV$guild) #levels(as.factor(SURV$guild))[summary(SURV$guild)>0]  
-
 # Sum survey area by domains specified in lookup
   dom_area <- tapply(strat_look$Area_km2, strat_look$Domain, sum)
 
 # Haul summary tables - summarize by domain and year
+# to get total # of stations per strata for averaging, and domain area for summing
   hauls   <- unique(SURV[,c("LATITUDE", "LONGITUDE", "STATION", "STRATUM", "YEAR", "DATETIME", 
                         "BOT_DEPTH", 
                         "BOT_TEMP", "SURF_TEMP", "VESSEL", "CRUISE", "HAUL", "ebs_domain")])
-
   haultots <- aggregate(STATION ~ YEAR+ebs_domain, data=hauls,length)
   area_km2 <- dom_area[haultots$ebs_domain]
   haultots <- cbind(haultots,area_km2)
   row.names(haultots) <- paste(haultots$YEAR,haultots$ebs_domain)
   
-# Sum biomass by domain and add domain multipliers (#stations, area)
+# Sum biomass by domain and add domain multipliers (# of stations, area)
   qq_cpue_sum <- aggregate(qq_cpue ~ YEAR + ebs_domain + ebs_name, data=SURV,sum)
   qq_cpue_sum$guild      <- q_look[qq_cpue_sum$ebs_name,"GUILD"]  
   qq_cpue_sum$stat_count <- haultots[paste(qq_cpue_sum$YEAR,qq_cpue_sum$ebs_domain),"STATION"]
   qq_cpue_sum$area_km2   <- haultots[paste(qq_cpue_sum$YEAR,qq_cpue_sum$ebs_domain),"area_km2"]
 
-# Final biomass in tons (can be summed across domains) and density averages 
+# Final biomass in tons (can be summed across domains) and density averages (not directly summable) 
   qq_cpue_sum$ave_bio_tkm2 <- qq_cpue_sum$qq_cpue/qq_cpue_sum$stat_count
   qq_cpue_sum$tot_bio_tons <- qq_cpue_sum$ave_bio_tkm2 * qq_cpue_sum$area_km2
-  
+
+# Output of final table (totals by stratum/year)  
   write.csv(qq_cpue_sum,"cpue_sum.csv",row.names=F)
 
   
   
   
+  # List of guilds that have biomass entries in race database
+  #GUILDS     <- unique(SURV$guild) #levels(as.factor(SURV$guild))[summary(SURV$guild)>0]    
   
 # find the number of unique stations in each year (yeartot).  Can't just 
 # take straight average because 0s are missing from the dataset
