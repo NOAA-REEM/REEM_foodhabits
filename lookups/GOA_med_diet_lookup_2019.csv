@@ -1,0 +1,95 @@
+PREYNAME,PREYGUILD,GOA_MED,IPHC
+AK Plaice,Benthic foragers,Sm.Flatfish,Flatfish
+AK Skate,Benthic foragers,Skates,Oth.demersal
+Aleutian Skate,Benthic foragers,Skates,Oth.demersal
+Algae,Other,Lg.Phytoplankton,OTH
+Anemones,Structural epifauna,Structural.epifauna,Structural.epifauna
+Arrow or Kam,Benthic foragers,Arrowtooth,Flatfish
+Arrowtooth,Benthic foragers,Arrowtooth,Flatfish
+Atka,Pelagic foragers,Misc.fish.shallow,Oth.demersal
+Bairdi,Motile epifauna,Bairdi,Bairdi
+Bathylagidae,Pelagic foragers,Basin.forage,Basin.forage
+Benth Amph,Infauna,Benthic.zoop,Pred.zoop
+Benth. Hydroid,Structural epifauna,Structural.epifauna,Structural.epifauna
+Benth. Urochordata,Structural epifauna,Structural.epifauna,Structural.epifauna
+Birds,Other,Birds,OTH
+Brittle Star,Motile epifauna,Motile.epifauna,Motile.epifauna
+Capelin,Pelagic foragers,Capelin,Capelin
+Chaeteg etc.,Mesozooplankton,Pred.zoop,Pred.zoop
+Clam,Infauna,Infauna,Infauna
+Copepod,Copepods,Copepods,Copepods
+Dover Sole,Benthic foragers,Sm.Flatfish,Flatfish
+Eelpout,Motile epifauna,Motile.epifauna,Motile.epifauna
+Eulachon,Pelagic foragers,Shelf.forage,Shelf.forage
+Euphausiid,Mesozooplankton,Euphausiids,Pred.zoop
+FH Sole,Benthic foragers,Sm.Flatfish,Flatfish
+Fish Eggs,Other,OTH,OTH
+Gen Rock Sole,Benthic foragers,Sm.Flatfish,Flatfish
+Gen. Cephalopod,Pelagic foragers,Squids,Squids
+Gen. Clupeids,Pelagic foragers,Shelf.forage,Shelf.forage
+Gen. Crab,Motile epifauna,Motile.epifauna,Motile.epifauna
+Gen. Crustacea,Motile epifauna,Motile.epifauna,Motile.epifauna
+Gen. Echinoderm,Motile epifauna,Motile.epifauna,Motile.epifauna
+Gen. Fish,Pelagic foragers,Shelf.forage,Shelf.forage
+Gen. Flatfish,Benthic foragers,Sm.Flatfish,Flatfish
+Gen. Gadid,Pelagic foragers,Shelf.forage,Shelf.forage
+Gen. Hexagrammidae,Pelagic foragers,Misc.fish.shallow,Oth.demersal
+Gen. Hydrozoa,Structural epifauna,OTH,OTH
+Gen. Mollusc,Motile epifauna,Motile.epifauna,Motile.epifauna
+Gen. Particulate,Other,OTH,OTH
+Gen. Rockfish,Pelagic foragers,Rockfish,Oth.demersal
+Gen. Rocks et al,Pelagic foragers,Rockfish,Oth.demersal
+Gen. Sebastes,Pelagic foragers,Rockfish,Oth.demersal
+Gen. Shark Skate,Apex predators,Sharks,Oth.demersal
+Gen. Smelt,Pelagic foragers,Shelf.forage,Shelf.forage
+Glopp,Other,OTH,OTH
+Gr. Turbot,Benthic foragers,Sm.Flatfish,Flatfish
+Greenlings,Pelagic foragers,Misc.fish.shallow,Oth.demersal
+Hermit Crab,Motile epifauna,Motile.epifauna,Motile.epifauna
+Herring,Pelagic foragers,Herring,Herring
+Kamchat fl,Benthic foragers,Arrowtooth,Flatfish
+King Crab,Motile epifauna,Motile.epifauna,Motile.epifauna
+Lg Sculpin,Benthic foragers,Lg.Sculpins,Oth.demersal
+Macrouridae,Benthic foragers,Grenadiers,Oth.demersal
+Managed Forage,Pelagic foragers,Shelf.forage,Shelf.forage
+Misc. Crab,Motile epifauna,Motile.epifauna,Motile.epifauna
+Misc. Crustacean,Infauna,Infauna,Infauna
+Misc. Flatfish,Benthic foragers,Sm.Flatfish,Flatfish
+Misc. Worm. Etc.,Infauna,Infauna,Infauna
+Misc_Roundfish,Pelagic foragers,Shelf.forage,Shelf.forage
+Myctophidae,Pelagic foragers,Basin.forage,Basin.forage
+Mysid,Mesozooplankton,Benthic.zoop,Pred.zoop
+N Rock Sole,Benthic foragers,Sm.Flatfish,Flatfish
+Northern Rock,Pelagic foragers,Rockfish,Oth.demersal
+NP Shrimp,Mesozooplankton,Benthic.zoop,Pred.zoop
+Octopus,Benthic foragers,Motile.epifauna,Motile.epifauna
+Offal,Other,Discards,Discards
+Opilo,Motile epifauna,Bairdi,Bairdi
+Oth pel. smelt,Pelagic foragers,Shelf.forage,Shelf.forage
+P. Cod,Benthic foragers,P.Cod,Oth.demersal
+P. Halibut,Benthic foragers,P.Halibut,Flatfish
+Pandalidae,Mesozooplankton,Pandalidae,Pandalidae
+Pel Amph,Mesozooplankton,Pred.zoop,Pred.zoop
+Pel. Gel. Filter Feeder,Mesozooplankton,Pred.zoop,Pred.zoop
+Polychaete,Infauna,Infauna,Infauna
+POP,Pelagic foragers,POP,Oth.demersal
+Protozoan,Mesozooplankton,Pred.zoop,Pred.zoop
+Pteropod,Mesozooplankton,Pred.zoop,Pred.zoop
+Rex sole,Benthic foragers,Sm.Flatfish,Flatfish
+S Rock Sole,Benthic foragers,Sm.Flatfish,Flatfish
+Sablefish,Pelagic foragers,Sablefish,Oth.demersal
+Salmon,Pelagic foragers,Salmon,Shelf.forage
+Sandlance,Pelagic foragers,Shelf.forage,Sandlance
+Sculpin,Benthic foragers,Misc.fish.shallow,Oth.demersal
+Scypho Jellies,Pelagic foragers,Jellyfish,Jellyfish
+Sea Star,Motile epifauna,Motile.epifauna,Motile.epifauna
+Shortsp Thorny,Pelagic foragers,Rockfish,Oth.demersal
+Snail,Motile epifauna,Motile.epifauna,Motile.epifauna
+Sponge,Structural epifauna,Structural.epifauna,Structural.epifauna
+Squid,Pelagic foragers,Squids,Squids
+Unid Bathyraja,Benthic foragers,Skates,Oth.demersal
+Unid Chion,Motile epifauna,Bairdi,Bairdi
+Unid Rajidae,Benthic foragers,Skates,Oth.demersal
+Urchins dollars cucumbers,Motile epifauna,Motile.epifauna,Motile.epifauna
+W. Pollock,Pelagic foragers,W.Pollock,W.Pollock
+YF Sole,Benthic foragers,Sm.Flatfish,Flatfish
