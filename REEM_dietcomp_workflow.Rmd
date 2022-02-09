@@ -1,0 +1,265 @@
+
+---
+title: "REEM Food Habits Diet Composition"
+author: "AFSC REFM REEM"
+date: "2/9/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Contents
+
+1. [Introduction](#Introduction)
+2. [Step 1](#Step-1.-Read-in-Data)
+3. [Step Predators](#Step-Predators)
+4. [Step Diet Composition Analysis](#Step-Diet-Composition-Analysis)
+
+### Introduction
+The purpose of this code is to calculate diet composition or groundfish caught in the AFSC bottom trawl survey. The stomach contents of a proportion of the catch are analyzed by the Resource Ecology and Ecosystem Modeling Food Habits Lab in the Resource Ecology and Fisheries Management Division of NOAA AFSC. This code allows the user to serach the food habits database (stored in Oracle), specifies the focal time frame and predators for the analyses, and produces basic diet composition analyses.
+
+
+This code was originally in "dietcomp.r". 
+
+*REEM code to add; 1) direct link to the Oracle search code for food habits ; 2) direct link to the RACEbase or otolith databse for length/weight regressions; 3) direct link to RACEBASE for biomass/length/strata; currently these are all read in as csv files or hard coded*
+
+### Step 1. Read in Data
+The first step is to read in the following data and lookup files that include decisions on LME (EBS, GOA) and prey groupings. The data include: 
+
+1. Predator prey diet file (*ppfile*) from RACEBASE query results
+2. Prey Groupings - either use a premade groupings (a an b below) or create new prey groupings
+  + Lookup file for grouping prey (*pplookfile*)
+  + Column name in pplookfile to use to group prey (from the lookup file above) (*preylook_col*)
+3. Minimum sample size (*min_sample*)
+
+```{r files}
+ppfile       <- "./data/BS_raw.csv.gz"                    # raw Pred/prey diet file (RACEBASE query result)
+pplookfile   <- "./lookups/Alaska_PreyLookup_MASTER.csv"  # lookup file for grouping prey
+preylook_col <- "EBS_CRAB"                      # Column name in pplookfile to use to group prey
+min_sample   <- 5                               # Minimum sample size 
+
+```
+
+### Step Predators
+Here we identify which predators will be the focus of the diet query and diet proportion analysis. First provide the nodc species ID number and the length-weight regression coeficcients (*A_L* and *B_L*), and the length bins (*LCLASS*) for each predator species of interest. 
+
+*Note REEM will update this code to be a csv table with all species regression coefficients?*
+
+Then specify the predator species (*predators*) and range of years (*yearslist*) to output
+
+```{r predator}
+# List of predator-specific values.  
+preds <- list(
+  "W.pollock"  = list(nodc="8791030701", A_L=0.00553096, B_L=3.044172,   LCLASS=c(0,10,25,40,55,999) ),
+  "P.cod"      = list(nodc="8791030401", A_L=0.00411781, B_L=3.25325765, LCLASS=c(0,10,30,60,85,999) ),
+  "Arrowtooth" = list(nodc=c("8857040100", "8857040102"), # ATF includes Atheresthes sp. unid
+                                         A_L=0.00443866, B_L=3.19894001, LCLASS=c(0,10,30,50,999) ),
+  "P.halibut"  = list(nodc="8857041901", A_L=0.01093251, B_L=3.24,       LCLASS=c(0,10,50,70,999) )
+)
+
+# Predators to calculate (all must be on above list)
+predators <- c("P.cod") #,"P.halibut")     
+
+# Years to output
+yearlist <- 1985:2019
+
+```
+
+### Step Spatial
+
+To define the spatial boundaries of the diet analysis we first read in a table with the strata names, ID numbers, and area (km2) (*strat_table*).Then aggregate the strata areas up to larger spatial areas called domain (*bigstrat*) to improve sample sizes. 
+
+Bottom trawl survey hauls are then grouped by *bigstrat*.
+
+Hard code in strata groupings by larger region and area (km2) of each strata
+
+*NOTE REEM can update this code to read in values from csv table (strata, domain, area) and not hard code it*
+
+```{r strata}
+strat_table <- read.csv("./lookups/EBS_strata.csv",row.names="Stratum")
+bigstrat <- aggregate(Area_km2~Domain,strat_table,sum)
+bigstrat_area<-bigstrat$Area_km2; names(bigstrat_area)<-bigstrat$Domain
+
+# Group strata as desired
+stratblock <- list(
+    "SE_inner"  = c(10),
+    "SE_middle" = c(31),
+    "SE_outer"  = c(50),
+    "Pribs"     = c(32,42),
+    "NW_inner"  = c(20),
+    "NW_middle" = c(41),
+    "NW_outer"  = c(61),
+    "StMatt"    = c(43,62),
+    "NW_corner" = c(82,90),
+    "NBS"       = c(70,71,81)
+  )
+
+stratarea_km <- c(
+"10"	= 78702.64,
+"20"	= 41328.67,
+"31"	= 94983.17,
+"32"	= 8935.52,
+"41"	= 62875.39,
+"42"	= 24242.43,
+"43"	= 21319.87,
+"50"	= 38989.6,
+"61"	= 88753.97,
+"62"	= 6462.79,
+"70"	= 79261,
+"71"  = 82594,
+"81"	= 38352,
+"82"	= 20897.01,
+"90"	= 11542
+)
+
+
+```
+
+
+Create dataframe with bottom trawl haul information from RACE across years in temporal range ("LATITUDE","LONGITUDE","STATION","STRATUM","YEAR","DATETIME", "BOT_DEPTH","BOT_TEMP","SURF_TEMP","VESSEL","CRUISE","HAUL")
+
+
+```{r haul}
+source("./R/stationcounts.r") # returns hauls dataframe
+   hauls$bigstrat <- strat_table[as.character(hauls$STRATUM),"Domain"]
+   haulcounts <- aggregate(STATION ~ bigstrat+YEAR, hauls, length)
+   row.names(haulcounts)<-paste(haulcounts$bigstrat,haulcounts$YEAR,sep='_')
+
+```
+
+Read in prey lookup table and raw data and ensure 10-digit nodc numbers are read as text keys
+
+
+```{r prey}
+# Read in lookup and raw data and ensure 10-digit nodc numbers are read as text keys
+preylooktable <- read.csv(pplookfile)
+  preylook <- preylooktable[,preylook_col]
+  names(preylook)<-sprintf("%010.0f",preylooktable$NODC_CODE)
+  fullprey<-unique(preylooktable[,preylook_col])
+rawdat   <- read.csv(ppfile)
+  rawdat$PREY_NODC <-sprintf("%010.0f",rawdat$PREY_NODC)
+  rawdat$PRED_NODC <-sprintf("%010.0f",rawdat$PRED_NODC)  
+  rawdat$preyguild <- preylook[rawdat$PREY_NODC]
+
+```
+
+### Step Diet Composition Analysis
+Start of main loop to: 
+
+1. Pick the predator (*ThisPred*)
+2. Create a crosstab table SURV and list of prey allprey using the preylook_col as the crosstab
+3. Add any additional filters for the data    
+4. Make matrix of individual stomachs
+
+```{r DietAnalysis}
+# Start main loop here
+outdat <- e_logvals <- e_sdvals <- e_vals <- o_vals <- cp_vals <- cper_dat <- NULL     
+
+for (PRED in predators){    
+  # Pick the predator 
+  ThisPred <- preds[[PRED]] 
+  preddat <- rawdat[rawdat$PRED_NODC %in% ThisPred$nodc,]  
+
+  # Create a crosstab table SURV and list of prey allprey using the preylook_col as the crosstab
+  gtab <- tapply(preddat$TWT,list(as.character(preddat$PREDJOIN),preddat$preyguild),sum)
+  gtab[is.na(gtab)]<-0
+  predtab <- unique(preddat[,c("PREDJOIN","PRED_NODC","PRED_NAME","PRED_LEN","HAULJOIN","REGION","STRATUM","YEAR","MONTH","DAY","GEAR_TEMP",
+                                "GEAR_DEPTH","BOTTOM_DEPTH","SURFACE_TEMP","STATIONID","CRUISE_TYPE","RLAT","RLONG")])
+  preycross <- gtab[as.character(predtab$PREDJOIN),]
+  # Bin by pred LCLASS (in cm)
+  lbin  <- cut(predtab$PRED_LEN,ThisPred$LCLASS,right=F)
+  GDAT    <-cbind(predtab,lbin,preycross)
+  allprey <- colnames(preycross)
+  alllen  <- unique(as.character(lbin))
+  
+  # add any additional filters for the data here:     
+  SURV <- GDAT[GDAT$CRUISE_TYPE=="Race_Groundfish" & GDAT$MONTH%in%6:8,]
+  
+  
+  for (STRAT in names(stratblock)){
+    cat(PRED,STRAT,"\n"); flush.console()
+    stratcodes <- unlist(stratblock[STRAT])
+    
+    for (LL in alllen){
+      lencodes <- LL 
+      
+      for (YY in yearlist){
+        yearcodes <- YY
+      
+        SELPRED <- SURV[ SURV$STRATUM %in% stratcodes &
+                           SURV$lbin %in% lencodes    &
+                           SURV$YEAR %in% yearcodes   ,]      
+  
+        if (length(SELPRED[,1])>=min_sample){
+          allfood <- SELPRED[,allprey]
+          goodprey <- allfood #allfood[,colSums(allfood)>0] to remove colums with 0 for dirichlet  
+          sptot    <- colSums(goodprey)
+          spadd <- 0.0 #spadd    <- DETECT*sptot/sum(sptot)
+          SCI <- t(t(goodprey)+spadd)/ (ThisPred$A_L * (SELPRED$PRED_LEN ^ ThisPred$B_L))
+          sp_prey  <- colnames(goodprey)
+          Pfull <- colSums(goodprey>0)  
+          Pnum  <- colSums(goodprey>=0)
+          elog  <- log((Pfull+0.5)/(Pnum-Pfull+0.5))
+          e_sd  <- sqrt(1.0/(Pfull+0.5) + 1.0/(Pnum-Pfull+0.5))
+          
+          
+          # Make matrix of individual stomachs
+          sampmat <- matrix(as.numeric(unlist(SCI)),length(SCI[,1]),length(sp_prey))
+          colnames(sampmat)<-sp_prey
+          Nind <- length(sampmat[,1])    
+          IND  <- 1:Nind #IND <- sample.int(Nind, Nind, replace = T)  
+          tot_wt    <- sum(rowSums(sampmat[IND,]))
+          cperw     <- sum(rowSums(sampmat[IND,]))/Nind
+          pathsum <- colSums(sampmat[IND,]) #+ spadd
+          dietprop <- pathsum/sum(pathsum)
+          cperfull  <- pathsum/Pfull
+                    # Saving the data     
+          Nsamp <- Nind
+          Nfull <- sum(rowSums(sampmat[IND,])>0)
+          SCIperN <- cperw 
+          #outdat    <- rbind(outdat,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,t(dietprop)))
+          #cper_dat  <- rbind(cper_dat,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,t(cperfull)))
+          #e_logvals <- rbind(e_logvals,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,t(elog) ))
+          #e_sdvals  <- rbind(e_sdvals, data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,t(e_sd) ))
+          o_vals    <- rbind(o_vals,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,sp_prey,dietprop,cperfull,elog,e_sd))
+          #cp_vals   <- rbind(cp_vals,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,sp_prey,cperfull))
+          #e_vals    <- rbind(e_vals,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,sp_prey,elog,e_sd))
+          #latmat[latind,sp_prey] <- dietprop[sp_prey]
+        } # end of if sample size conditional 
+        
+        
+        #cat(stratcodes," ",lencodes,"\n") 
+      } # end of yearlist
+    } # end of lenblock
+  } #end of stratblock      
+}  # end predator loop 
+  
+
+
+```
+
+Additional anlyses
+
+```{r finalAnalysis}
+
+o_vals$cperfull[is.nan(o_vals$cperfull)]<-0        
+
+# Add transformed logit values for frequency of occurrence 
+o_vals$meanper <- exp(o_vals$elog)/(1+exp(o_vals$elog))       
+o_vals$lo95per <- exp(o_vals$elog-1.96*o_vals$e_sd)/(1+exp(o_vals$elog-1.96*o_vals$e_sd))
+o_vals$hi95per <- exp(o_vals$elog+1.96*o_vals$e_sd)/(1+exp(o_vals$elog+1.96*o_vals$e_sd))
+        
+
+```
+
+Output the diet proportion results to a csv file
+
+```{r output}
+
+write.csv(o_vals,"results/out_diets_all.csv",row.names=F)
+
+
+```
+
