@@ -1,0 +1,53 @@
+Region,Stratum,Domain,Area_km2,mindepth,maxdepth,description
+AI,0,NA,1,0,0,NA
+AI,7,NA,1,0,0,NA
+AI,211,West,3696.32,0,100,Stalemate bank & Attu I
+AI,212,West,4065.17,100,200,Stalemate bank & Attu I
+AI,213,West,940.23,200,300,Stalemate bank & Attu I
+AI,214,West,1711.08,300,500,Stalemate bank & Attu I
+AI,221,West,1183.33,0,100,Buldir I.
+AI,222,West,1252.46,100,200,Buldir I.
+AI,223,West,783.4,200,300,Buldir I.
+AI,224,West,1561.39,300,500,Buldir I.
+AI,311,Central,960.02,0,100,Petrel Bank
+AI,312,Central,1735.54,100,200,Petrel Bank
+AI,313,Central,766.43,200,300,Petrel Bank
+AI,314,Central,1237.48,300,500,Petrel Bank
+AI,321,Central,2105.64,0,100,North portion of the islands W & E of Tanaga &Amchitka Pass
+AI,322,Central,1066.05,100,200,North portion of the islands W & E of Tanaga &Amchitka Pass
+AI,323,Central,439,200,300,North portion of the islands W & E of Tanaga &Amchitka Pass
+AI,324,Central,1239.74,300,500,North portion of the islands W & E of Tanaga &Amchitka Pass
+AI,411,Central,1617.67,0,100,SW of Tanaga & Amchitka Pass
+AI,412,Central,1052.3,100,200,SW of Tanaga & Amchitka Pass
+AI,413,Central,426.04,200,300,SW of Tanaga & Amchitka Pass
+AI,414,Central,789.21,300,500,SW of Tanaga & Amchitka Pass
+AI,421,Central,1164.04,0,100,SE of Tanaga & Amchitka Pass
+AI,422,Central,751.79,100,200,SE of Tanaga & Amchitka Pass
+AI,423,Central,477.36,200,300,SE of Tanaga & Amchitka Pass
+AI,424,Central,714.3,300,500,SE of Tanaga & Amchitka Pass
+AI,511,East,1932.48,0,100,North portion of Adak I
+AI,512,East,1594.31,100,200,North portion of Adak I
+AI,513,East,155.93,200,300,North portion of Adak I
+AI,514,NA,1,0,0,NA
+AI,521,East,1268.06,0,100,North portion of Seguam & Islands of Four Mountains
+AI,522,East,2012.55,100,200,North portion of Seguam & Islands of Four Mountains
+AI,523,East,1968.56,200,300,North portion of Seguam & Islands of Four Mountains
+AI,524,NA,1,0,0,NA
+AI,594,East,2670.01,300,500,North portion of Seguam & Islands of Four Mountains
+AI,611,East,1906.76,0,100,South portion of Adak I
+AI,612,East,2261.05,100,200,South portion of Adak I
+AI,613,East,716.38,200,300,South portion of Adak I
+AI,614,East,438.21,300,500,South portion of Adak I
+AI,621,East,1740.64,1,100,South portion of Seguam & Islands of Four Mountains
+AI,622,East,1900.19,100,200,South portion of Seguam & Islands of Four Mountains
+AI,623,East,2060.61,200,300,South portion of Seguam & Islands of Four Mountains
+AI,624,East,2574.73,300,500,South portion of Seguam & Islands of Four Mountains
+AI,711,BeringGoa,1585.64,0,100,North portion of Umnak I
+AI,712,BeringGoa,669.51,100,200,North portion of Umnak I
+AI,714,NA,1,0,0,NA
+AI,721,BeringGoa,2440.26,0,100,North portion of Unalaska I
+AI,722,BeringGoa,1179.12,100,200,North portion of Unalaska I
+AI,723,NA,1,0,0,NA
+AI,724,NA,1,0,0,NA
+AI,793,BeringGoa,563.86,201,300,North portion of both Umnak I. & Unalaska I.
+AI,794,BeringGoa,1043.17,301,500,North portion of both Umnak I. & Unalaska I.

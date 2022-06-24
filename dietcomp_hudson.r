@@ -1,18 +1,18 @@
 
 # output file for final diet table 
-  output_file  <- "results/out_diets_AI.csv"
+  output_file  <- "out_diets_AI.csv"
 
 # raw data file (in gz compressed format)
-  ppfile       <- "data/BS_raw.csv.gz"                    # raw Pred/prey diet file (RACEBASE query result)
+  ppfile       <- "AI_raw.csv"                    # raw Pred/prey diet file (oracle query result)
 
 # Lookup for prey codes
-  pplookfile   <- "lookups/Alaska_PreyLookup_MASTER.csv"  # lookup file for grouping prey
+  pplookfile   <- "Alaska_PreyLookup_MASTER.csv"  # lookup file for grouping prey
 
-# Column to use
-  preylook_col <- "EBS_CRAB"                      # Column name in pplookfile to use to group prey
+# Column to use in prey codes lookup table
+  preylook_col <- "HUDSON"                      # Column name in pplookfile to use to group prey
 
 # Lookup for stratum groupings
-  stratlookfile<- "lookups/EBS_strata.csv"
+  stratlookfile<- "AI_strata.csv"
 
 # Minimum sample size - strata/years without at least this many samples are not reported 
   min_sample   <- 5                               
@@ -31,21 +31,22 @@ preds <- list(
   "Atka.mackerel" = list(nodc="8827010501", A_L=0.0088,     B_L=3.273,      LCLASS=c(0,20,999)          )
 )
 
-# Predators to calculate (all must be on above list)
-predators <- c("P.cod") #,"P.halibut")
+# Predators to calculate (must be ones picked from above preds list)
+predators <- c("POP","Atka.mackerel")
   
 # Years to output
 yearlist <- 1985:2021  # can also use list yearlist <- c(1985,1987,1989) etc
 
 
+# # Get Stratum data and strata combining information for making larger domains (bigstrats)
+  strat_table <- read.csv(stratlookfile, row.names="Stratum")
+  bigstrat <- aggregate(Area_km2~Domain,strat_table,sum)
+  bigstrat_area<-bigstrat$Area_km2; names(bigstrat_area)<-bigstrat$Domain
+# Results should be strat_table, bigstrat, and bigstrat_area
+
+
 # Leaving Biomass queries (from RACE Biomass data) out for now
 # (this is written for EBS)
-# # Get Stratum data and strata combining information for making larger domains (bigstrats)
-#   strat_table <- read.csv(stratlookfile, row.names="Stratum")
-#   bigstrat <- aggregate(Area_km2~Domain,strat_table,sum)
-#   bigstrat_area<-bigstrat$Area_km2; names(bigstrat_area)<-bigstrat$Domain
-# # Results should be strat_table, bigstrat, and bigstrat_area
-#   
 # # Get Haul data from all stations (including those with no stomachs)
 # # formerly in source("stationcounts.r") 
 #   bts_datdir   <- "data/bts_data" # Data files (bottom-trawl public format, from RACE)
@@ -147,18 +148,12 @@ for (PRED in predators){
           Nsamp <- Nind
           Nfull <- sum(rowSums(sampmat[IND,])>0)
           SCIperN <- cperw 
-          #outdat    <- rbind(outdat,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,t(dietprop)))
-          #cper_dat  <- rbind(cper_dat,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,t(cperfull)))
-          #e_logvals <- rbind(e_logvals,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,t(elog) ))
-          #e_sdvals  <- rbind(e_sdvals, data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,t(e_sd) ))
+          
           o_vals    <- rbind(o_vals,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,sp_prey,dietprop,cperfull,elog,e_sd))
-          #cp_vals   <- rbind(cp_vals,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,sp_prey,cperfull))
-          #e_vals    <- rbind(e_vals,data.frame(PRED,STRAT,YY,LL,Nsamp,Nfull,SCIperN,sp_prey,elog,e_sd))
-          #latmat[latind,sp_prey] <- dietprop[sp_prey]
-        } # end of if sample size conditional 
-        
-        
-        #cat(stratcodes," ",lencodes,"\n") 
+
+        } else {
+          #o_vals    <- rbind(o_vals,c(PRED,STRAT,YY,LL,0,0,0,0,0,0,0,0))
+        }# end of if sample size conditional 
       } # end of yearlist
     } # end of lenblock
   } #end of stratblock      
